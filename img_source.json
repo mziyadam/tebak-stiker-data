@@ -25,6 +25,11 @@
         "censor": "b"
     },
     {
+        "answer": "SIAPA SANGKA",
+        "file": "SIAPA SANGKA.jpg",
+        "censor": "b"
+    },
+    {
         "answer": "Mw! Bnget Mw! Bnget",
         "file": "Mw! Bnget Mw! Bnget.jpg",
         "censor": "tb"
@@ -45,6 +50,16 @@
         "censor": "b"
     },
     {
+        "answer": "Terus terang",
+        "file": "Terus terang.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "WINDAH ASPAL TOL CIPULARANG",
+        "file": "WINDAH ASPAL TOL CIPULARANG.jpg",
+        "censor": "tb"
+    },
+    {
         "answer": "JANCOK ASU COCOTE SAMPEYAN!!! RENE NGOPI!!! CEK INBOX SAT!!!!!",
         "file": "JANCOK ASU COCOTE SAMPEYAN!!! RENE NGOPI!!! CEK INBOX SAT!!!!!.png",
         "censor": "tb"
@@ -60,6 +75,11 @@
         "censor": "tb"
     },
     {
+        "answer": "ONDE MANDE",
+        "file": "ONDE MANDE.jpg",
+        "censor": "b"
+    },
+    {
         "answer": "Ngeri-ngeri",
         "file": "Ngeri-ngeri.png",
         "censor": "b"
@@ -70,9 +90,19 @@
         "censor": "b"
     },
     {
+        "answer": "LAGI NAIK DAUN",
+        "file": "LAGI NAIK DAUN.jpg",
+        "censor": "b"
+    },
+    {
         "answer": "AKU NGANGGUR",
         "file": "AKU NGANGGUR.png",
         "censor": "b"
+    },
+    {
+        "answer": "diam bukan berarti limbad",
+        "file": "diam bukan berarti limbad.jpg",
+        "censor": "m"
     },
     {
         "answer": "BENTAR GATEL",
@@ -83,6 +113,11 @@
         "answer": "rasa sakit ini terasa nikmat",
         "file": "rasa sakit ini terasa nikmat.jpg",
         "censor": "tb"
+    },
+    {
+        "answer": "AKU JUGA MW",
+        "file": "AKU JUGA MW.jpg",
+        "censor": "b"
     },
     {
         "answer": "SERAH LU DAH",
@@ -130,6 +165,11 @@
         "censor": "b"
     },
     {
+        "answer": "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta",
+        "file": "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta.jpg",
+        "censor": "tb"
+    },
+    {
         "answer": "Ingat Anak-anak Tetaplah berada di jalan setan",
         "file": "Ingat Anak-anak Tetaplah berada di jalan setan.jpg",
         "censor": "tb"
@@ -140,6 +180,11 @@
         "censor": "b"
     },
     {
+        "answer": "AWAS KAMU YAH",
+        "file": "AWAS KAMU YAH.jpg",
+        "censor": "tb"
+    },
+    {
         "answer": "kalo gw malu tuh",
         "file": "kalo gw malu tuh.png",
         "censor": "tb"
@@ -147,6 +192,16 @@
     {
         "answer": "NGGAK",
         "file": "NGGAK.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "CERDAS",
+        "file": "CERDAS.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "MACEM TAK BETUL BUDAK NI",
+        "file": "MACEM TAK BETUL BUDAK NI.jpg",
         "censor": "b"
     },
     {
@@ -160,8 +215,28 @@
         "censor": "b"
     },
     {
+        "answer": "APA COBA",
+        "file": "APA COBA.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "KECEWA BERAT",
+        "file": "KECEWA BERAT.jpg",
+        "censor": "tb"
+    },
+    {
         "answer": "BUNUH ADMIN",
         "file": "BUNUH ADMIN.png",
+        "censor": "b"
+    },
+    {
+        "answer": "KSABAR",
+        "file": "KSABAR.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "PAK YU",
+        "file": "PAK YU.jpg",
         "censor": "b"
     },
     {
@@ -205,6 +280,11 @@
         "censor": "b"
     },
     {
+        "answer": "LU ASIK BANG",
+        "file": "LU ASIK BANG.jpg",
+        "censor": "b"
+    },
+    {
         "answer": "ga waras",
         "file": "ga waras.jpg",
         "censor": "b"
@@ -215,14 +295,34 @@
         "censor": "b"
     },
     {
+        "answer": "SIP SYA CATAT",
+        "file": "SIP SYA CATAT.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "Sucipto",
+        "file": "Sucipto.jpg",
+        "censor": "b"
+    },
+    {
         "answer": "SERIUS LU",
         "file": "SERIUS LU.png",
+        "censor": "b"
+    },
+    {
+        "answer": "PEPEK",
+        "file": "PEPEK.jpg",
         "censor": "b"
     },
     {
         "answer": "MALES SUMPAH",
         "file": "MALES SUMPAH.png",
         "censor": "b"
+    },
+    {
+        "answer": "3JT pun kubayar",
+        "file": "3JT pun kubayar.jpg",
+        "censor": "t"
     },
     {
         "answer": "Ingat kita ga gud luking",
@@ -232,6 +332,11 @@
     {
         "answer": "pura2 nggak liat",
         "file": "pura2 nggak liat.png",
+        "censor": "b"
+    },
+    {
+        "answer": "segera menuju lokasi",
+        "file": "segera menuju lokasi.jpg",
         "censor": "b"
     },
     {
@@ -262,6 +367,21 @@
     {
         "answer": "BACOT KAU BABI",
         "file": "BACOT KAU BABI.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "DILUAR NALAR COY",
+        "file": "DILUAR NALAR COY.jpg",
+        "censor": "t"
+    },
+    {
+        "answer": "Sebaiknya jangan terlalu gegabah",
+        "file": "Sebaiknya jangan terlalu gegabah.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "Ywdh boleh",
+        "file": "Ywdh boleh.jpg",
         "censor": "b"
     },
     {
@@ -300,6 +420,16 @@
         "censor": "b"
     },
     {
+        "answer": "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS",
+        "file": "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "SUDAH WAKTUNYA LOGIN",
+        "file": "SUDAH WAKTUNYA LOGIN.jpg",
+        "censor": "tb"
+    },
+    {
         "answer": "GAK MANUK AKAL",
         "file": "GAK MANUK AKAL.jpg",
         "censor": "tb"
@@ -310,14 +440,34 @@
         "censor": "b"
     },
     {
+        "answer": "ADMIN DATANG",
+        "file": "ADMIN DATANG.jpg",
+        "censor": "tb"
+    },
+    {
+        "answer": "\"si paling si paling\" daripada lu si pasi pasiri sipasipasi",
+        "file": "\"si paling si paling\" daripada lu si pasi pasiri sipasipasi.jpg",
+        "censor": "tb"
+    },
+    {
         "answer": "dongo",
         "file": "dongo.png",
+        "censor": "b"
+    },
+    {
+        "answer": "WADUH",
+        "file": "WADUH.jpg",
         "censor": "b"
     },
     {
         "answer": "angkat tangan saya menyerah",
         "file": "angkat tangan saya menyerah.png",
         "censor": "tb"
+    },
+    {
+        "answer": "APABILA",
+        "file": "APABILA.jpg",
+        "censor": "b"
     },
     {
         "answer": "ANJIR COOL BET GWEH",
@@ -335,8 +485,18 @@
         "censor": "tb"
     },
     {
+        "answer": "PLISS BANG AJAK GW",
+        "file": "PLISS BANG AJAK GW.jpg",
+        "censor": "b"
+    },
+    {
         "answer": "tewas dihitamkan",
         "file": "tewas dihitamkan.png",
+        "censor": "b"
+    },
+    {
+        "answer": "SLEBEWW",
+        "file": "SLEBEWW.jpg",
         "censor": "b"
     },
     {
@@ -390,6 +550,16 @@
         "censor": "b"
     },
     {
+        "answer": "LU SOK ASIK BANGSAT",
+        "file": "LU SOK ASIK BANGSAT.jpg",
+        "censor": "tb"
+    },
+    {
+        "answer": "EA",
+        "file": "EA.jpg",
+        "censor": "b"
+    },
+    {
         "answer": "TUA BANGKA MANA NGERTI TEKNOLOGI",
         "file": "TUA BANGKA MANA NGERTI TEKNOLOGI.jpg",
         "censor": "b"
@@ -397,6 +567,16 @@
     {
         "answer": "Nelen Fakta",
         "file": "Nelen Fakta.jpg",
+        "censor": "tb"
+    },
+    {
+        "answer": "PENASARAN",
+        "file": "PENASARAN.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "Ya Allah, seperti biasa Aamiin",
+        "file": "Ya Allah, seperti biasa Aamiin.jpg",
         "censor": "tb"
     },
     {
@@ -415,6 +595,11 @@
         "censor": "b"
     },
     {
+        "answer": "PEMBOHONK PUBLIK",
+        "file": "PEMBOHONK PUBLIK.jpg",
+        "censor": "tb"
+    },
+    {
         "answer": "NTAR DULU GUA PIKIR PIKIR DULU",
         "file": "NTAR DULU GUA PIKIR PIKIR DULU.png",
         "censor": "tb"
@@ -430,6 +615,11 @@
         "censor": "b"
     },
     {
+        "answer": "APASIH",
+        "file": "APASIH.jpg",
+        "censor": "b"
+    },
+    {
         "answer": "JAGUNG BAKAR",
         "file": "JAGUNG BAKAR.jpg",
         "censor": "b"
@@ -440,8 +630,28 @@
         "censor": "b"
     },
     {
-        "answer": "GA PEDULI",
-        "file": "GA PEDULI.jpg",
+        "answer": "NGUAWOR",
+        "file": "NGUAWOR.jpg",
+        "censor": "t"
+    },
+    {
+        "answer": "MANCING PERKORO",
+        "file": "MANCING PERKORO.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "Iri bilang bos",
+        "file": "Iri bilang bos.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "LU ITU GA DI AJAK",
+        "file": "LU ITU GA DI AJAK.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "Ga Peduli",
+        "file": "Ga Peduli.jpg",
         "censor": "b"
     },
     {
@@ -455,6 +665,11 @@
         "censor": "tb"
     },
     {
+        "answer": "HARI INI MASAK APA CHEF?",
+        "file": "HARI INI MASAK APA CHEF?.jpg",
+        "censor": "tb"
+    },
+    {
         "answer": "bang, kalian stres nya cuma bercanda kan",
         "file": "bang, kalian stres nya cuma bercanda kan.png",
         "censor": "tb"
@@ -465,8 +680,23 @@
         "censor": "b"
     },
     {
+        "answer": "ADA-ADA SAJA",
+        "file": "ADA-ADA SAJA.jpg",
+        "censor": "b"
+    },
+    {
         "answer": "TABAH",
         "file": "TABAH.png",
+        "censor": "b"
+    },
+    {
+        "answer": "NGOTAK GOBLOK",
+        "file": "NGOTAK GOBLOK.jpg",
+        "censor": "t"
+    },
+    {
+        "answer": "GW UDAH MUAK",
+        "file": "GW UDAH MUAK.jpg",
         "censor": "b"
     },
     {
@@ -482,6 +712,11 @@
     {
         "answer": "AMPUN JAGOAN",
         "file": "AMPUN JAGOAN.png",
+        "censor": "b"
+    },
+    {
+        "answer": "PAKE NANYA",
+        "file": "PAKE NANYA.jpg",
         "censor": "b"
     },
     {
@@ -522,6 +757,11 @@
     {
         "answer": "mikir dong Lo kan dah gede !",
         "file": "mikir dong Lo kan dah gede !.jpg",
+        "censor": "b"
+    },
+    {
+        "answer": "AFFH IYH",
+        "file": "AFFH IYH.jpg",
         "censor": "b"
     },
     {
@@ -570,6 +810,11 @@
         "censor": "tb"
     },
     {
+        "answer": "TERTAWA TAPI TERLUKA",
+        "file": "TERTAWA TAPI TERLUKA.jpg",
+        "censor": "b"
+    },
+    {
         "answer": "Woy Sound horeg Rumahku rusak nih",
         "file": "Woy Sound horeg Rumahku rusak nih.jpg",
         "censor": "m"
@@ -577,6 +822,11 @@
     {
         "answer": "CEWEK SAYA",
         "file": "CEWEK SAYA.png",
+        "censor": "b"
+    },
+    {
+        "answer": "Apasih ngabs",
+        "file": "Apasih ngabs.jpg",
         "censor": "b"
     },
     {
