@@ -130,11 +130,6 @@
         "censor": "b"
     },
     {
-        "answer": "Turu",
-        "file": "Turu.png",
-        "censor": "b"
-    },
-    {
         "answer": "GW MULU ANJING",
         "file": "GW MULU ANJING.png",
         "censor": "b"
@@ -308,11 +303,6 @@
         "answer": "PAGI LORD",
         "file": "PAGI LORD.png",
         "censor": "b"
-    },
-    {
-        "answer": "Ingat Anak-anak Tetalpah berada di jalan Allah",
-        "file": "Ingat Anak-anak Tetalpah berada di jalan Allah.png",
-        "censor": "tb"
     },
     {
         "answer": "AKU ESEMA",
@@ -695,11 +685,6 @@
         "censor": "b"
     },
     {
-        "answer": "LU ITU GA DI AJAK",
-        "file": "LU ITU GA DI AJAK.png",
-        "censor": "b"
-    },
-    {
         "answer": "bang, kalian stres nya cuma bercanda kan",
         "file": "bang, kalian stres nya cuma bercanda kan.png",
         "censor": "tb"
@@ -790,14 +775,9 @@
         "censor": "b"
     },
     {
-        "answer": "DiKeroyok Netizen Indo",
-        "file": "DiKeroyok Netizen Indo.png",
-        "censor": "tb"
-    },
-    {
-        "answer": "dikeroyok sales",
-        "file": "dikeroyok sales.png",
-        "censor": "b"
+        "answer": "LU ITU GA DI AJAK",
+        "file": "LU ITU GA DI AJAK.png",
+        "censor": "bm"
     },
     {
         "answer": "AFFH IYH",
@@ -842,6 +822,11 @@
     {
         "answer": "Dasar Anak Bangsad",
         "file": "Dasar Anak Bangsad.png",
+        "censor": "b"
+    },
+    {
+        "answer": "Turu",
+        "file": "Turu.png",
         "censor": "b"
     },
     {
