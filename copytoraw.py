@@ -1,13 +1,19 @@
 import os
 import shutil
+import re
+
+def process_filename(filename):
+    """Clean the filename: remove all characters except alphabets, periods, and spaces, and replace spaces with underscores."""
+    cleaned = re.sub(r'[^a-zA-Z. ]', '', filename)  # Remove unwanted characters
+    return cleaned.replace(' ', '_')  # Replace spaces with underscores
 
 def copy_and_rename_files(folder_path):
-    # List all files in the given folder
+    """Clean the filenames and copy/rename .webp files in the folder."""
     for filename in os.listdir(folder_path):
-        # Check if the filename contains a hyphen and ends with .webp
+        # Only process files that contain a hyphen and end with .webp
         if "-" in filename and filename.endswith(".webp"):
-            # Split the filename at the first hyphen and take the part after it
-            new_filename = filename.split("-", 1)[1]
+            # Clean the filename by removing unwanted characters and replacing spaces with underscores
+            new_filename = process_filename(filename.split("-", 1)[1])  # Remove prefix before hyphen and clean
 
             # Define source and destination paths
             source_path = os.path.join(folder_path, filename)
@@ -20,4 +26,6 @@ def copy_and_rename_files(folder_path):
 
 # Specify the folder path containing your files
 folder_path = "photos"  # Replace with your folder path
+
+# Run the function to copy and rename files
 copy_and_rename_files(folder_path)
