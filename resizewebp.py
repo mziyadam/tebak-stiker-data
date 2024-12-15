@@ -40,6 +40,6 @@ def process_folder(input_folder, output_folder, size=(512, 512)):
                 print(f"Error processing {file_name}: {e}")
 
 # Example usage
-input_folder = "photos"    # Folder containing the WebP images
-output_folder = "photos"  # Folder to save resized images
+input_folder = "photosraw"    # Folder containing the WebP images
+output_folder = "photosraw"  # Folder to save resized images
 process_folder(input_folder, output_folder)
