@@ -5,7 +5,7 @@ import re
 def process_filename(filename):
     """Clean the filename: remove all characters except alphabets, periods, and spaces, and replace spaces with underscores."""
     cleaned = re.sub(r'[^a-zA-Z. ]', '', filename)  # Remove unwanted characters
-    return cleaned.replace(' ', '_')  # Replace spaces with underscores
+    return cleaned # Replace spaces with underscores
 
 def copy_and_rename_files(folder_path):
     """Clean the filenames and copy/rename .webp files in the folder."""
