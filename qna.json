@@ -1,1905 +1,1905 @@
 [
     {
-        "answer": "UTIWI",
-        "file": "UTIWI.png",
+        "answer": "WADUH",
+        "file": "WADUH.webp",
         "censor": "b",
         "answer_list": [
+            "SUDAH WAKTUNYA LOGIN",
+            "PAK YU",
+            "WADUH",
+            "AWAS KAMU YAH"
+        ]
+    },
+    {
+        "answer": "PANJENENGAN DANCOK",
+        "file": "PANJENENGAN DANCOK.webp",
+        "censor": "tb",
+        "answer_list": [
+            "AFFH IYH",
+            "ADMIN DATANG",
+            "PANJENENGAN DANCOK",
+            "PERASAN GUA GK ENAK NIH"
+        ]
+    },
+    {
+        "answer": "BACOT",
+        "file": "BACOT.webp",
+        "censor": "b",
+        "answer_list": [
+            "Ga Peduli",
+            "SUDAHLAH WIBU",
+            "BACOT",
+            "KEBAL ROASTING"
+        ]
+    },
+    {
+        "answer": "LO ITU GA DI AJAK GA USAH SOK ASIK",
+        "file": "LO ITU GA DI AJAK GA USAH SOK ASIK.webp",
+        "censor": "b",
+        "answer_list": [
+            "AKU KULIAH",
             "ingfokan",
-            "UTIWI",
+            "aph iyh?",
+            "LO ITU GA DI AJAK GA USAH SOK ASIK"
+        ]
+    },
+    {
+        "answer": "PLISS BANG AJAK GW",
+        "file": "PLISS BANG AJAK GW.webp",
+        "censor": "b",
+        "answer_list": [
+            "LOGIN",
+            "GAS BY ONE AJG",
+            "PLISS BANG AJAK GW",
+            "BENTAR GATEL"
+        ]
+    },
+    {
+        "answer": "SUDAHLAH WIBU",
+        "file": "SUDAHLAH WIBU.webp",
+        "censor": "b",
+        "answer_list": [
             "AH YG BENER",
+            "SUDAHLAH WIBU",
+            "BANG LU SEPUH YAK",
+            "KELAS KING"
+        ]
+    },
+    {
+        "answer": "UTIWI",
+        "file": "UTIWI.webp",
+        "censor": "b",
+        "answer_list": [
+            "bruakakak",
+            "Mw! Bnget Mw! Bnget",
+            "DIKEROYOK SIRKEL",
+            "UTIWI"
+        ]
+    },
+    {
+        "answer": "GEGE LU BANG",
+        "file": "GEGE LU BANG.webp",
+        "censor": "b",
+        "answer_list": [
+            "GEGE LU BANG",
+            "MAJU LO SINI AJG",
+            "WET SLOW BANG",
+            "CERDAS"
+        ]
+    },
+    {
+        "answer": "Awkoakwoakwoak",
+        "file": "Awkoakwoakwoak.webp",
+        "censor": "b",
+        "answer_list": [
+            "AKU PERGI",
+            "maaf gak minaj",
+            "GEGE LU BANG",
+            "Awkoakwoakwoak"
+        ]
+    },
+    {
+        "answer": "diam bukan berarti limbad",
+        "file": "diam bukan berarti limbad.webp",
+        "censor": "m",
+        "answer_list": [
+            "tolol sok keras pula",
+            "BUNUH ADMIN",
+            "diam bukan berarti limbad",
+            "KELAS KING"
+        ]
+    },
+    {
+        "answer": "MAJU LO SINI AJG",
+        "file": "MAJU LO SINI AJG.webp",
+        "censor": "b",
+        "answer_list": [
+            "najis baperan",
+            "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta",
+            "MAJU LO SINI AJG",
+            "GACOR KANG"
+        ]
+    },
+    {
+        "answer": "PAKE NANYA",
+        "file": "PAKE NANYA.webp",
+        "censor": "b",
+        "answer_list": [
+            "Ya Allah, seperti biasa Aamiin",
+            "segera menuju lokasi",
+            "PAKE NANYA",
+            "Terus terang"
+        ]
+    },
+    {
+        "answer": "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta",
+        "file": "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta.webp",
+        "censor": "tb",
+        "answer_list": [
+            "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta",
+            "aph iyh?",
+            "NGUAWOR",
+            "Ingat Anak-anak Tetaplah berada di jalan setan"
+        ]
+    },
+    {
+        "answer": "MALAM PENGANGGURAN",
+        "file": "MALAM PENGANGGURAN.webp",
+        "censor": "tb",
+        "answer_list": [
+            "pura2 nggak liat",
+            "MALAM PENGANGGURAN",
+            "EA",
+            "AKU JUGA MW"
+        ]
+    },
+    {
+        "answer": "AKU KERJA",
+        "file": "AKU KERJA.webp",
+        "censor": "b",
+        "answer_list": [
+            "BENTAR GATEL",
+            "AWAS KAMU YAH",
+            "AKU KERJA",
+            "ah ajg lu"
+        ]
+    },
+    {
+        "answer": "LU ITU GA DI AJAK",
+        "file": "LU ITU GA DI AJAK.webp",
+        "censor": "bm",
+        "answer_list": [
+            "LU ITU GA DI AJAK",
+            "AKU KULIAH",
+            "Pinjem dulu seratus",
+            "AKU JUGA MW"
+        ]
+    },
+    {
+        "answer": "gada otak",
+        "file": "gada otak.webp",
+        "censor": "b",
+        "answer_list": [
+            "AFFH IYH",
+            "gada otak",
+            "MENYALA ABANGKUH",
+            "si paling si paling daripada lu si pasi pasiri sipasipasi"
+        ]
+    },
+    {
+        "answer": "LU SOK ASIK BANGSAT",
+        "file": "LU SOK ASIK BANGSAT.webp",
+        "censor": "tb",
+        "answer_list": [
+            "gada otak",
+            "GAS BY ONE AJG",
+            "LU SOK ASIK BANGSAT",
+            "APASIH"
+        ]
+    },
+    {
+        "answer": "assalamualaikum",
+        "file": "assalamualaikum.webp",
+        "censor": "b",
+        "answer_list": [
+            "Awkoakwoakwoak",
+            "assalamualaikum",
+            "Pinjem dulu seratus",
+            "PUNTEN"
+        ]
+    },
+    {
+        "answer": "Mw! Bnget Mw! Bnget",
+        "file": "Mw! Bnget Mw! Bnget.webp",
+        "censor": "tb",
+        "answer_list": [
+            "Mw! Bnget Mw! Bnget",
+            "segera menuju lokasi",
+            "GW UDAH MUAK",
+            "EA"
+        ]
+    },
+    {
+        "answer": "NGGAK",
+        "file": "NGGAK.webp",
+        "censor": "b",
+        "answer_list": [
+            "SUDAHLAH WIBU",
+            "DIKEROYOK SIRKEL",
+            "Pinjem dulu seratus",
+            "NGGAK"
+        ]
+    },
+    {
+        "answer": "TUA BANGKA MANA NGERTI TEKNOLOGI",
+        "file": "TUA BANGKA MANA NGERTI TEKNOLOGI.webp",
+        "censor": "b",
+        "answer_list": [
+            "SERIUS LU",
+            "rasa sakit ini terasa nikmat",
+            "TUA BANGKA MANA NGERTI TEKNOLOGI",
+            "OWALAH ASU"
+        ]
+    },
+    {
+        "answer": "DILUAR NALAR COY",
+        "file": "DILUAR NALAR COY.webp",
+        "censor": "t",
+        "answer_list": [
+            "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS",
+            "PUNTEN",
+            "MIKIR TUH PAKE OTAK",
+            "DILUAR NALAR COY"
+        ]
+    },
+    {
+        "answer": "BENTAR GATEL",
+        "file": "BENTAR GATEL.webp",
+        "censor": "tb",
+        "answer_list": [
+            "BENTAR GATEL",
+            "KOK BISA BANG",
+            "maaf lagi mode tobat",
+            "BACOT"
+        ]
+    },
+    {
+        "answer": "AMPUN JAGOAN",
+        "file": "AMPUN JAGOAN.webp",
+        "censor": "b",
+        "answer_list": [
+            "AMPUN JAGOAN",
+            "Ngeri-ngeri",
+            "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS",
+            "MENDING TIDUR"
+        ]
+    },
+    {
+        "answer": "KSABAR",
+        "file": "KSABAR.webp",
+        "censor": "b",
+        "answer_list": [
+            "nyerah gue bro",
+            "NTAR DULU GUA PIKIR PIKIR DULU",
+            "KSABAR",
+            "Sudahlah koboi"
+        ]
+    },
+    {
+        "answer": "Dah Lah.....",
+        "file": "Dah Lah......webp",
+        "censor": "b",
+        "answer_list": [
+            "SOK ASIK",
+            "Dah Lah.....",
+            "bang, kalian stres nya cuma bercanda kan",
+            "SUDAHLAH WIBU"
+        ]
+    },
+    {
+        "answer": "super gacor",
+        "file": "super gacor.webp",
+        "censor": "b",
+        "answer_list": [
+            "BENTAR GATEL",
+            "DIKEROYOK SIRKEL",
+            "kalo gw malu tuh",
+            "super gacor"
+        ]
+    },
+    {
+        "answer": "HARI INI MASAK APA CHEF?",
+        "file": "HARI INI MASAK APA CHEF?.webp",
+        "censor": "tb",
+        "answer_list": [
+            "PANJENENGAN DANCOK",
+            "SERIUS LU",
+            "HARI INI MASAK APA CHEF?",
+            "BACOT KAU BABI"
+        ]
+    },
+    {
+        "answer": "BACOT KAU BABI",
+        "file": "BACOT KAU BABI.webp",
+        "censor": "b",
+        "answer_list": [
+            "LAGI NAIK DAUN",
+            "ini saatnya...",
+            "LU ASIK BANG",
+            "BACOT KAU BABI"
+        ]
+    },
+    {
+        "answer": "berpikir sejenak",
+        "file": "berpikir sejenak.webp",
+        "censor": "tb",
+        "answer_list": [
+            "DIA KENAPA?",
+            "Mampus kntl Yang sabar ya bro",
+            "berpikir sejenak",
+            "B AJA"
+        ]
+    },
+    {
+        "answer": "OWALAH ASU",
+        "file": "OWALAH ASU.webp",
+        "censor": "b",
+        "answer_list": [
+            "OWALAH ASU",
+            "PAKE NANYA",
+            "CEWEK SAYA",
+            "HAI SAYANG"
+        ]
+    },
+    {
+        "answer": "sopan santun telah hilang",
+        "file": "sopan santun telah hilang.webp",
+        "censor": "tb",
+        "answer_list": [
+            "sopan santun telah hilang",
+            "Ya Allah, seperti biasa Aamiin",
+            "EXTRA JOSS",
+            "LU DOANG"
+        ]
+    },
+    {
+        "answer": "Dasar Anak Bangsad",
+        "file": "Dasar Anak Bangsad.webp",
+        "censor": "b",
+        "answer_list": [
+            "Dasar Anak Bangsad",
+            "CANDA BANG NIH 500",
+            "Awkoakwoakwoak",
+            "Nelen Fakta"
+        ]
+    },
+    {
+        "answer": "KENAPA?? GAK SENENG!!",
+        "file": "KENAPA?? GAK SENENG!!.webp",
+        "censor": "tb",
+        "answer_list": [
+            "AKU PERGI",
+            "GW TANDAIN MUKA LO!",
+            "KENAPA?? GAK SENENG!!",
+            "brisik ajg"
+        ]
+    },
+    {
+        "answer": "wibu goblok",
+        "file": "wibu goblok.webp",
+        "censor": "b",
+        "answer_list": [
+            "tolol sok keras pula",
+            "Sudahlah koboi",
+            "wibu goblok",
+            "segera menuju lokasi"
+        ]
+    },
+    {
+        "answer": "MENYALA ABANGKUH",
+        "file": "MENYALA ABANGKUH.webp",
+        "censor": "tb",
+        "answer_list": [
+            "ADA-ADA SAJA",
+            "Ngeri-ngeri",
+            "MENYALA ABANGKUH",
+            "LAGI NAIK DAUN"
+        ]
+    },
+    {
+        "answer": "nyerah gue bro",
+        "file": "nyerah gue bro.webp",
+        "censor": "b",
+        "answer_list": [
+            "MAJU LO SINI AJG",
+            "HARI INI MASAK APA CHEF?",
+            "nyerah gue bro",
+            "PEPEK"
+        ]
+    },
+    {
+        "answer": "lu mau gw pukul?",
+        "file": "lu mau gw pukul?.webp",
+        "censor": "b",
+        "answer_list": [
+            "lu mau gw pukul?",
+            "pura2 nggak liat",
+            "mikir dong Lo kan dah gede !",
+            "Ya Allah, seperti biasa Aamiin"
+        ]
+    },
+    {
+        "answer": "MENDING TIDUR",
+        "file": "MENDING TIDUR.webp",
+        "censor": "b",
+        "answer_list": [
+            "MENDING TIDUR",
+            "WET SLOW BANG",
+            "Sudahlah koboi",
+            "MIKIR TUH PAKE OTAK"
+        ]
+    },
+    {
+        "answer": "SERAH LU DAH",
+        "file": "SERAH LU DAH.webp",
+        "censor": "b",
+        "answer_list": [
+            "GAK MANUK AKAL",
+            "B AJA",
+            "MIKIR TUH PAKE OTAK",
+            "SERAH LU DAH"
+        ]
+    },
+    {
+        "answer": "ah ajg lu",
+        "file": "ah ajg lu.webp",
+        "censor": "b",
+        "answer_list": [
+            "Bagaimana cara kita memberitahukannya?",
+            "SLEBEWW",
+            "ah ajg lu",
+            "AKU NGANGGUR"
+        ]
+    },
+    {
+        "answer": "Pinjem dulu seratus",
+        "file": "Pinjem dulu seratus.webp",
+        "censor": "m",
+        "answer_list": [
+            "Ya Allah, seperti biasa Aamiin",
+            "Pinjem dulu seratus",
+            "KEBAL ROASTING",
+            "MALES SUMPAH"
+        ]
+    },
+    {
+        "answer": "MAIN GAME BUAT HILANGIN STRES EH MALAH LOSE STREAK",
+        "file": "MAIN GAME BUAT HILANGIN STRES EH MALAH LOSE STREAK.webp",
+        "censor": "tb",
+        "answer_list": [
+            "SLEBEWW",
+            "MENDING TIDUR",
+            "Sudahlah Badut",
+            "MAIN GAME BUAT HILANGIN STRES EH MALAH LOSE STREAK"
+        ]
+    },
+    {
+        "answer": "HAI SAYANG",
+        "file": "HAI SAYANG.webp",
+        "censor": "b",
+        "answer_list": [
+            "APASIH",
+            "HAI SAYANG",
+            "Ywdh boleh",
             "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta"
         ]
     },
     {
         "answer": "BANG LU SEPUH YAK",
-        "file": "BANG LU SEPUH YAK.png",
+        "file": "BANG LU SEPUH YAK.webp",
         "censor": "t",
         "answer_list": [
-            "NGOTAK GOBLOK",
-            "ah ajg lu",
+            "BANG LU SEPUH YAK",
             "LU ITU GA DI AJAK",
-            "BANG LU SEPUH YAK"
-        ]
-    },
-    {
-        "answer": "WET SLOW BANG",
-        "file": "WET SLOW BANG.png",
-        "censor": "b",
-        "answer_list": [
-            "AKU NGANGGUR",
-            "WET SLOW BANG",
-            "ADA-ADA SAJA",
-            "SERIUS LU"
-        ]
-    },
-    {
-        "answer": "SUDAHLAH WIBU",
-        "file": "SUDAHLAH WIBU.png",
-        "censor": "b",
-        "answer_list": [
-            "assalamualaikum",
-            "SUDAHLAH WIBU",
-            "Ywdh boleh",
-            "LU ITU GA DI AJAK"
-        ]
-    },
-    {
-        "answer": "SIAPA SANGKA",
-        "file": "SIAPA SANGKA.png",
-        "censor": "b",
-        "answer_list": [
-            "TERTAWA TAPI TERLUKA",
-            "pura2 nggak liat",
-            "SIAPA SANGKA",
-            "diam bukan berarti limbad"
-        ]
-    },
-    {
-        "answer": "MENYALA ABANGKUH",
-        "file": "MENYALA ABANGKUH.png",
-        "censor": "tb",
-        "answer_list": [
-            "Dasar Anak Bangsad",
-            "Terus terang",
-            "MENYALA ABANGKUH",
-            "ADMIN DATANG"
-        ]
-    },
-    {
-        "answer": "Mw! Bnget Mw! Bnget",
-        "file": "Mw! Bnget Mw! Bnget.png",
-        "censor": "tb",
-        "answer_list": [
-            "SUDAH WAKTUNYA LOGIN",
-            "Pinjem dulu seratus",
-            "Tumben dari barat",
-            "Mw! Bnget Mw! Bnget"
-        ]
-    },
-    {
-        "answer": "DIKEROYOK SIRKEL",
-        "file": "DIKEROYOK SIRKEL.png",
-        "censor": "b",
-        "answer_list": [
-            "AFFH IYH",
-            "Ngeri-ngeri",
-            "DIKEROYOK SIRKEL",
-            "SEGELAS AJAH"
-        ]
-    },
-    {
-        "answer": "GACOR KANG",
-        "file": "GACOR KANG.png",
-        "censor": "b",
-        "answer_list": [
-            "GACOR KANG",
-            "Tumben dari barat",
-            "rasa sakit ini terasa nikmat",
-            "Ga Peduli"
-        ]
-    },
-    {
-        "answer": "MAAP BANG BERCANDA",
-        "file": "MAAP BANG BERCANDA.png",
-        "censor": "tb",
-        "answer_list": [
-            "MAIN GAME BUAT HILANGIN STRES EH MALAH LOSE STREAK",
-            "MAAP BANG BERCANDA",
-            "kaya ada yang ngomongin gw",
-            "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS"
-        ]
-    },
-    {
-        "answer": "AKU PERGI",
-        "file": "AKU PERGI.png",
-        "censor": "b",
-        "answer_list": [
-            "BOONK COBA ESES",
-            "LAGI NAIK DAUN",
-            "WINDAH ASPAL TOL CIPULARANG",
-            "AKU PERGI"
-        ]
-    },
-    {
-        "answer": "Terus terang",
-        "file": "Terus terang.png",
-        "censor": "b",
-        "answer_list": [
-            "Terus terang",
-            "HARI INI MASAK APA CHEF?",
-            "oh iya kah?",
-            "diam bukan berarti limbad"
-        ]
-    },
-    {
-        "answer": "JANCOK ASU COCOTE SAMPEYAN!!! RENE NGOPI!!! CEK INBOX SAT!!!!!",
-        "file": "JANCOK ASU COCOTE SAMPEYAN!!! RENE NGOPI!!! CEK INBOX SAT!!!!!.png",
-        "censor": "tb",
-        "answer_list": [
-            "Ngeri-ngeri",
-            "PENASARAN",
-            "JANCOK ASU COCOTE SAMPEYAN!!! RENE NGOPI!!! CEK INBOX SAT!!!!!",
-            "MALES SUMPAH"
-        ]
-    },
-    {
-        "answer": "WINDAH ASPAL TOL CIPULARANG",
-        "file": "WINDAH ASPAL TOL CIPULARANG.png",
-        "censor": "tb",
-        "answer_list": [
-            "assalamualaikum",
-            "CEWEK SAYA",
-            "Dasar Anak Bangsad",
-            "WINDAH ASPAL TOL CIPULARANG"
-        ]
-    },
-    {
-        "answer": "diam bukan berarti limbad",
-        "file": "diam bukan berarti limbad.png",
-        "censor": "m",
-        "answer_list": [
-            "aph iyh?",
-            "diam bukan berarti limbad",
-            "ini saatnya...",
-            "Ingat kita ga gud luking"
-        ]
-    },
-    {
-        "answer": "Pinjem dulu seratus",
-        "file": "Pinjem dulu seratus.png",
-        "censor": "m",
-        "answer_list": [
-            "Pinjem dulu seratus",
-            "Sebaiknya jangan terlalu gegabah",
-            "KOK BISA BANG",
-            "PEPEK"
-        ]
-    },
-    {
-        "answer": "LAGI NAIK DAUN",
-        "file": "LAGI NAIK DAUN.png",
-        "censor": "b",
-        "answer_list": [
-            "PANJENENGAN DANCOK",
-            "LAGI NAIK DAUN",
-            "Mw! Bnget Mw! Bnget",
-            "BACOT KAU BABI"
-        ]
-    },
-    {
-        "answer": "KENAPA?? GAK SENENG!!",
-        "file": "KENAPA?? GAK SENENG!!.png",
-        "censor": "tb",
-        "answer_list": [
-            "angkat tangan saya menyerah",
-            "GAK MANUK AKAL",
-            "KENAPA?? GAK SENENG!!",
-            "aph iyh?"
-        ]
-    },
-    {
-        "answer": "Ngeri-ngeri",
-        "file": "Ngeri-ngeri.png",
-        "censor": "b",
-        "answer_list": [
-            "Ngeri-ngeri",
-            "GW TANDAIN MUKA LO!",
-            "PENASARAN",
-            "PAKE NANYA"
-        ]
-    },
-    {
-        "answer": "ONDE MANDE",
-        "file": "ONDE MANDE.png",
-        "censor": "b",
-        "answer_list": [
-            "KACANGIN AJA BRO",
-            "ONDE MANDE",
-            "CEWEK SAYA",
-            "KEBAL ROASTING"
-        ]
-    },
-    {
-        "answer": "KACANGIN AJA BRO",
-        "file": "KACANGIN AJA BRO.png",
-        "censor": "b",
-        "answer_list": [
-            "KACANGIN AJA BRO",
-            "CANDA BANG NIH 500",
-            "singkat, padat, bangsat",
-            "Ywdh boleh"
-        ]
-    },
-    {
-        "answer": "AKU NGANGGUR",
-        "file": "AKU NGANGGUR.png",
-        "censor": "b",
-        "answer_list": [
-            "AKU NGANGGUR",
-            "berpikir sejenak",
-            "AKU NGEPUNK",
-            "segera menuju lokasi"
-        ]
-    },
-    {
-        "answer": "BENTAR GATEL",
-        "file": "BENTAR GATEL.png",
-        "censor": "tb",
-        "answer_list": [
-            "PANJENENGAN DANCOK",
-            "JANCOK ASU COCOTE SAMPEYAN!!! RENE NGOPI!!! CEK INBOX SAT!!!!!",
-            "GAK MANUK AKAL",
-            "BENTAR GATEL"
-        ]
-    },
-    {
-        "answer": "rasa sakit ini terasa nikmat",
-        "file": "rasa sakit ini terasa nikmat.png",
-        "censor": "tb",
-        "answer_list": [
-            "ANJIR COOL BET GWEH",
-            "rasa sakit ini terasa nikmat",
-            "PUNTEN",
-            "APASIH"
-        ]
-    },
-    {
-        "answer": "AKU JUGA MW",
-        "file": "AKU JUGA MW.png",
-        "censor": "b",
-        "answer_list": [
-            "AKU JUGA MW",
-            "LU ITU GA DI AJAK",
-            "JANCOK ASU COCOTE SAMPEYAN!!! RENE NGOPI!!! CEK INBOX SAT!!!!!",
-            "AKU ESEMPE"
-        ]
-    },
-    {
-        "answer": "duh enak banget bangke",
-        "file": "duh enak banget bangke.png",
-        "censor": "b",
-        "answer_list": [
-            "DIKEROYOK SIRKEL",
-            "duh enak banget bangke",
-            "Turu",
-            "MALAM PENGANGGURAN"
-        ]
-    },
-    {
-        "answer": "GW MULU ANJING",
-        "file": "GW MULU ANJING.png",
-        "censor": "b",
-        "answer_list": [
-            "LU ITU GA DI AJAK",
-            "GW UDAH MUAK",
-            "GW MULU ANJING",
-            "AH YG BENER"
-        ]
-    },
-    {
-        "answer": "AKU ESEMPE",
-        "file": "AKU ESEMPE.png",
-        "censor": "b",
-        "answer_list": [
-            "GW UDAH MUAK",
-            "berpikir sejenak",
-            "AKU ESEMPE",
-            "MENYALA ABANGKUH"
-        ]
-    },
-    {
-        "answer": "aph iyh?",
-        "file": "aph iyh?.png",
-        "censor": "t",
-        "answer_list": [
-            "tewas dihitamkan",
-            "aph iyh?",
-            "Awkoakwoakwoak",
-            "MAAP BANG BERCANDA"
-        ]
-    },
-    {
-        "answer": "MENDING TIDUR",
-        "file": "MENDING TIDUR.png",
-        "censor": "b",
-        "answer_list": [
-            "MENDING TIDUR",
-            "gada otak",
-            "TERTAWA TAPI TERLUKA",
-            "APASIH"
-        ]
-    },
-    {
-        "answer": "SERAH LU DAH",
-        "file": "SERAH LU DAH.png",
-        "censor": "b",
-        "answer_list": [
-            "ini saatnya...",
-            "super gacor",
-            "SERAH LU DAH",
-            "tewas dihitamkan"
-        ]
-    },
-    {
-        "answer": "maaf lagi mode tobat",
-        "file": "maaf lagi mode tobat.png",
-        "censor": "tb",
-        "answer_list": [
-            "ADA-ADA SAJA",
-            "maaf lagi mode tobat",
-            "Dasar Anak Bangsad",
-            "GEGE LU BANG"
-        ]
-    },
-    {
-        "answer": "najis baperan",
-        "file": "najis baperan.png",
-        "censor": "b",
-        "answer_list": [
-            "Awkoakwoakwoak",
-            "Pinjem dulu seratus",
-            "KSABAR",
-            "najis baperan"
-        ]
-    },
-    {
-        "answer": "lu mau gw pukul?",
-        "file": "lu mau gw pukul?.png",
-        "censor": "b",
-        "answer_list": [
-            "lu mau gw pukul?",
-            "Ingat kita ga gud luking",
-            "Dasar Anak Bangsad",
-            "ADMIN DATANG"
-        ]
-    },
-    {
-        "answer": "Dah Lah.....",
-        "file": "Dah Lah......png",
-        "censor": "b",
-        "answer_list": [
-            "LU SOK ASIK BANGSAT",
-            "Dah Lah.....",
-            "KECEWA BERAT GW",
-            "SOK ASIK"
-        ]
-    },
-    {
-        "answer": "Ingat Anak-anak Tetaplah berada di jalan setan",
-        "file": "Ingat Anak-anak Tetaplah berada di jalan setan.png",
-        "censor": "tb",
-        "answer_list": [
-            "LU ITU GA DI AJAK",
-            "Ya Allah, seperti biasa Aamiin",
-            "Ingat Anak-anak Tetaplah berada di jalan setan",
-            "GW UDAH MUAK"
-        ]
-    },
-    {
-        "answer": "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta",
-        "file": "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta.png",
-        "censor": "tb",
-        "answer_list": [
-            "AKU PERGI",
-            "maaf lagi mode tobat",
-            "bruakakak",
-            "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta"
-        ]
-    },
-    {
-        "answer": "MAS ANIES, MAS ANIES",
-        "file": "MAS ANIES, MAS ANIES.png",
-        "censor": "b",
-        "answer_list": [
-            "PENASARAN",
             "EA",
-            "MAS ANIES, MAS ANIES",
-            "Mw! Bnget Mw! Bnget"
-        ]
-    },
-    {
-        "answer": "AWAS KAMU YAH",
-        "file": "AWAS KAMU YAH.png",
-        "censor": "tb",
-        "answer_list": [
-            "Mampus kntl Yang sabar ya bro",
-            "WADUH",
-            "BACOT",
-            "AWAS KAMU YAH"
-        ]
-    },
-    {
-        "answer": "DIA KENAPA?",
-        "file": "DIA KENAPA?.png",
-        "censor": "b",
-        "answer_list": [
-            "AH YG BENER",
-            "DIA KENAPA?",
-            "GEGE LU BANG",
-            "MENYALA ABANGKUH"
-        ]
-    },
-    {
-        "answer": "NGGAK",
-        "file": "NGGAK.png",
-        "censor": "b",
-        "answer_list": [
-            "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta",
-            "NGGAK",
-            "Ga Peduli",
-            "AKU KULIAH"
-        ]
-    },
-    {
-        "answer": "kalo gw malu tuh",
-        "file": "kalo gw malu tuh.png",
-        "censor": "tb",
-        "answer_list": [
-            "kalo gw malu tuh",
-            "AKU NGEPUNK",
-            "Turu",
-            "rasa sakit ini terasa nikmat"
+            "HAI SAYANG"
         ]
     },
     {
         "answer": "maaf gak minaj",
-        "file": "maaf gak minaj.png",
+        "file": "maaf gak minaj.webp",
         "censor": "bm",
         "answer_list": [
-            "NGUAWOR",
+            "ingfokan",
+            "maaf gak minaj",
+            "SIP SYA CATAT",
+            "NGUAWOR"
+        ]
+    },
+    {
+        "answer": "CEWEK SAYA",
+        "file": "CEWEK SAYA.webp",
+        "censor": "b",
+        "answer_list": [
+            "AKU ESEMKA",
+            "maaf lagi mode tobat",
+            "NGOTAK GOBLOK",
+            "CEWEK SAYA"
+        ]
+    },
+    {
+        "answer": "APASIH",
+        "file": "APASIH.webp",
+        "censor": "b",
+        "answer_list": [
+            "APASIH",
+            "MENDING TIDUR",
+            "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS",
+            "LOGIN"
+        ]
+    },
+    {
+        "answer": "Bagaimana cara kita memberitahukannya?",
+        "file": "Bagaimana cara kita memberitahukannya?.webp",
+        "censor": "b",
+        "answer_list": [
+            "Bagaimana cara kita memberitahukannya?",
+            "GAS BY ONE AJG",
             "JAGUNG BAKAR",
+            "dongo"
+        ]
+    },
+    {
+        "answer": "si paling si paling daripada lu si pasi pasiri sipasipasi",
+        "file": "si paling si paling daripada lu si pasi pasiri sipasipasi.webp",
+        "censor": "tb",
+        "answer_list": [
+            "KEBAL ROASTING",
+            "CEWEK SAYA",
+            "si paling si paling daripada lu si pasi pasiri sipasipasi",
+            "NGOTAK GOBLOK"
+        ]
+    },
+    {
+        "answer": "AKU ESEMPE",
+        "file": "AKU ESEMPE.webp",
+        "censor": "b",
+        "answer_list": [
+            "BACOT",
+            "ANJIR COOL BET GWEH",
+            "AKU ESEMPE",
+            "Mw! Bnget Mw! Bnget"
+        ]
+    },
+    {
+        "answer": "AKU ESDE",
+        "file": "AKU ESDE.webp",
+        "censor": "b",
+        "answer_list": [
+            "AKU ESDE",
+            "JADI ELU",
+            "NGUAWOR",
+            "nyerah gue bro"
+        ]
+    },
+    {
+        "answer": "APA COBA",
+        "file": "APA COBA.webp",
+        "censor": "b",
+        "answer_list": [
+            "Ingat kita ga gud luking",
+            "APA COBA",
+            "SLEBEWW",
+            "CEWEK SAYA"
+        ]
+    },
+    {
+        "answer": "LU ASIK BANG",
+        "file": "LU ASIK BANG.webp",
+        "censor": "b",
+        "answer_list": [
+            "LU ASIK BANG",
+            "APA TUHH KOK DIHAPUSS??",
+            "OWALAH ASU",
+            "APA COBA"
+        ]
+    },
+    {
+        "answer": "GAS BY ONE AJG",
+        "file": "GAS BY ONE AJG.webp",
+        "censor": "b",
+        "answer_list": [
+            "GAS BY ONE AJG",
+            "KSABAR",
+            "TERTAWA TAPI TERLUKA",
+            "SLEBEWW"
+        ]
+    },
+    {
+        "answer": "najis baperan",
+        "file": "najis baperan.webp",
+        "censor": "b",
+        "answer_list": [
+            "SIP SYA CATAT",
+            "tolol sok keras pula",
+            "APASIH",
+            "najis baperan"
+        ]
+    },
+    {
+        "answer": "JAGUNG BAKAR",
+        "file": "JAGUNG BAKAR.webp",
+        "censor": "b",
+        "answer_list": [
+            "LAGI NAIK DAUN",
+            "Awkoakwoakwoak",
+            "SOK ASIK",
+            "JAGUNG BAKAR"
+        ]
+    },
+    {
+        "answer": "Sebaiknya jangan terlalu gegabah",
+        "file": "Sebaiknya jangan terlalu gegabah.webp",
+        "censor": "b",
+        "answer_list": [
+            "AMPUN JAGOAN",
+            "Sebaiknya jangan terlalu gegabah",
+            "Dasar Anak Bangsad",
+            "BENTAR GATEL"
+        ]
+    },
+    {
+        "answer": "APA TUHH KOK DIHAPUSS??",
+        "file": "APA TUHH KOK DIHAPUSS??.webp",
+        "censor": "t",
+        "answer_list": [
+            "Turu",
+            "APA TUHH KOK DIHAPUSS??",
+            "WINDAH ASPAL TOL CIPULARANG",
+            "APABILA"
+        ]
+    },
+    {
+        "answer": "SEGELAS AJAH",
+        "file": "SEGELAS AJAH.webp",
+        "censor": "b",
+        "answer_list": [
+            "WINDAH ASPAL TOL CIPULARANG",
+            "SEGELAS AJAH",
+            "MACEM TAK BETUL BUDAK NI",
+            "gada otak"
+        ]
+    },
+    {
+        "answer": "Ga Peduli",
+        "file": "Ga Peduli.webp",
+        "censor": "b",
+        "answer_list": [
+            "Ga Peduli",
+            "ah ajg lu",
+            "SERIUS LU",
+            "JAGUNG BAKAR"
+        ]
+    },
+    {
+        "answer": "duh enak banget bangke",
+        "file": "duh enak banget bangke.webp",
+        "censor": "b",
+        "answer_list": [
+            "duh enak banget bangke",
+            "DIA KENAPA?",
+            "BACOT",
+            "BENTAR GATEL"
+        ]
+    },
+    {
+        "answer": "ADA-ADA SAJA",
+        "file": "ADA-ADA SAJA.webp",
+        "censor": "b",
+        "answer_list": [
+            "Nelen Fakta",
+            "SIP SYA CATAT",
+            "SUDAHLAH WIBU",
+            "ADA-ADA SAJA"
+        ]
+    },
+    {
+        "answer": "EXTRA JOSS",
+        "file": "EXTRA JOSS.webp",
+        "censor": "t",
+        "answer_list": [
+            "Sucipto",
+            "EXTRA JOSS",
+            "EA",
+            "Bagaimana cara kita memberitahukannya?"
+        ]
+    },
+    {
+        "answer": "Sudahlah Badut",
+        "file": "Sudahlah Badut.webp",
+        "censor": "b",
+        "answer_list": [
+            "TERTAWA TAPI TERLUKA",
+            "Sudahlah Badut",
+            "Enaknya duit bansos",
+            "CANDA BANG NIH 500"
+        ]
+    },
+    {
+        "answer": "WINDAH ASPAL TOL CIPULARANG",
+        "file": "WINDAH ASPAL TOL CIPULARANG.webp",
+        "censor": "tb",
+        "answer_list": [
+            "AFFH IYH",
+            "WINDAH ASPAL TOL CIPULARANG",
+            "GAS BY ONE AJG",
+            "SUDAHLAH WIBU"
+        ]
+    },
+    {
+        "answer": "MANCING PERKORO",
+        "file": "MANCING PERKORO.webp",
+        "censor": "b",
+        "answer_list": [
+            "AKU ESDE",
+            "AMPUN JAGOAN",
+            "MANCING PERKORO",
+            "KEBAL ROASTING"
+        ]
+    },
+    {
+        "answer": "BAKWAN JAGUNG",
+        "file": "BAKWAN JAGUNG.webp",
+        "censor": "b",
+        "answer_list": [
+            "BUNUH ADMIN",
+            "BAKWAN JAGUNG",
+            "CEWEK SAYA",
+            "bang, kalian stres nya cuma bercanda kan"
+        ]
+    },
+    {
+        "answer": "PAGI LORD",
+        "file": "PAGI LORD.webp",
+        "censor": "b",
+        "answer_list": [
+            "KELAS KING",
+            "Mampus kntl Yang sabar ya bro",
+            "PAGI LORD",
+            "sopan santun telah hilang"
+        ]
+    },
+    {
+        "answer": "AKU ESEMA",
+        "file": "AKU ESEMA.webp",
+        "censor": "b",
+        "answer_list": [
+            "AKU ESEMA",
+            "Bagaimana cara kita memberitahukannya?",
+            "LU DOANG",
+            "MALES SUMPAH"
+        ]
+    },
+    {
+        "answer": "KAU LAGI",
+        "file": "KAU LAGI.webp",
+        "censor": "b",
+        "answer_list": [
+            "KAU LAGI",
+            "BACOT",
+            "EXTRA JOSS",
+            "HARI INI MASAK APA CHEF?"
+        ]
+    },
+    {
+        "answer": "JANCOK ASU COCOTE SAMPEYAN!!! RENE NGOPI!!! CEK INBOX SAT!!!!!",
+        "file": "JANCOK ASU COCOTE SAMPEYAN!!! RENE NGOPI!!! CEK INBOX SAT!!!!!.webp",
+        "censor": "tb",
+        "answer_list": [
+            "si paling si paling daripada lu si pasi pasiri sipasipasi",
+            "NTAR DULU GUA PIKIR PIKIR DULU",
+            "KECEWA BERAT GW",
+            "JANCOK ASU COCOTE SAMPEYAN!!! RENE NGOPI!!! CEK INBOX SAT!!!!!"
+        ]
+    },
+    {
+        "answer": "segera menuju lokasi",
+        "file": "segera menuju lokasi.webp",
+        "censor": "b",
+        "answer_list": [
+            "PANJENENGAN DANCOK",
+            "segera menuju lokasi",
+            "KOK BISA BANG",
+            "SIP SYA CATAT"
+        ]
+    },
+    {
+        "answer": "TABAH",
+        "file": "TABAH.webp",
+        "censor": "b",
+        "answer_list": [
+            "CERDAS",
+            "CEWEK SAYA",
+            "TABAH",
+            "dongo"
+        ]
+    },
+    {
+        "answer": "EA",
+        "file": "EA.webp",
+        "censor": "b",
+        "answer_list": [
+            "ingfokan",
+            "KECEWA BERAT",
+            "3JT pun kubayar",
+            "EA"
+        ]
+    },
+    {
+        "answer": "Sucipto",
+        "file": "Sucipto.webp",
+        "censor": "b",
+        "answer_list": [
+            "Sucipto",
+            "ANJIR COOL BET GWEH",
+            "SEGELAS AJAH",
+            "Sebaiknya jangan terlalu gegabah"
+        ]
+    },
+    {
+        "answer": "3JT pun kubayar",
+        "file": "3JT pun kubayar.webp",
+        "censor": "t",
+        "answer_list": [
+            "HAI SAYANG",
+            "diam bukan berarti limbad",
+            "TABAH",
+            "3JT pun kubayar"
+        ]
+    },
+    {
+        "answer": "ini saatnya...",
+        "file": "ini saatnya....webp",
+        "censor": "b",
+        "answer_list": [
+            "tolol sok keras pula",
+            "rasa sakit ini terasa nikmat",
+            "MACEM TAK BETUL BUDAK NI",
+            "ini saatnya..."
+        ]
+    },
+    {
+        "answer": "GACOR KANG",
+        "file": "GACOR KANG.webp",
+        "censor": "b",
+        "answer_list": [
+            "APABILA",
+            "MAAP BANG BERCANDA",
+            "GACOR KANG",
+            "PAKE NANYA"
+        ]
+    },
+    {
+        "answer": "dongo",
+        "file": "dongo.webp",
+        "censor": "b",
+        "answer_list": [
+            "PLISS BANG AJAK GW",
+            "SLEBEWW",
+            "dongo",
+            "AKU KULIAH"
+        ]
+    },
+    {
+        "answer": "NTAR DULU GUA PIKIR PIKIR DULU",
+        "file": "NTAR DULU GUA PIKIR PIKIR DULU.webp",
+        "censor": "tb",
+        "answer_list": [
+            "PEMBOHONG KAU PEMBOHONG",
+            "ga waras",
+            "KACANGIN AJA BRO",
+            "NTAR DULU GUA PIKIR PIKIR DULU"
+        ]
+    },
+    {
+        "answer": "pura2 nggak liat",
+        "file": "pura2 nggak liat.webp",
+        "censor": "b",
+        "answer_list": [
+            "MAAP BANG BERCANDA",
+            "LU ASIK BANG",
+            "pura2 nggak liat",
+            "ah ajg lu"
+        ]
+    },
+    {
+        "answer": "KELAS KING",
+        "file": "KELAS KING.webp",
+        "censor": "tb",
+        "answer_list": [
+            "KELAS KING",
+            "MAIN GAME BUAT HILANGIN STRES EH MALAH LOSE STREAK",
+            "Sebaiknya jangan terlalu gegabah",
+            "Sudahlah Badut"
+        ]
+    },
+    {
+        "answer": "Turu",
+        "file": "Turu.webp",
+        "censor": "b",
+        "answer_list": [
+            "3JT pun kubayar",
+            "Turu",
+            "pura2 nggak liat",
+            "SUDAH CUKUP"
+        ]
+    },
+    {
+        "answer": "SUDAH CUKUP",
+        "file": "SUDAH CUKUP.webp",
+        "censor": "b",
+        "answer_list": [
+            "SUDAH CUKUP",
+            "ah ajg lu",
+            "SEGELAS AJAH",
+            "DILUAR NALAR COY"
+        ]
+    },
+    {
+        "answer": "Mampus kntl Yang sabar ya bro",
+        "file": "Mampus kntl Yang sabar ya bro.webp",
+        "censor": "b",
+        "answer_list": [
+            "PLISS BANG AJAK GW",
+            "Mampus kntl Yang sabar ya bro",
+            "maaf gak minaj",
+            "brisik ajg"
+        ]
+    },
+    {
+        "answer": "AKU JUGA MW",
+        "file": "AKU JUGA MW.webp",
+        "censor": "b",
+        "answer_list": [
+            "MANCING PERKORO",
+            "AKU JUGA MW",
+            "Sucipto",
+            "GACOR KANG"
+        ]
+    },
+    {
+        "answer": "PENASARAN",
+        "file": "PENASARAN.webp",
+        "censor": "b",
+        "answer_list": [
+            "LU DOANG",
+            "PENASARAN",
+            "GW UDAH MUAK",
+            "AKU ESEMA"
+        ]
+    },
+    {
+        "answer": "WET SLOW BANG",
+        "file": "WET SLOW BANG.webp",
+        "censor": "b",
+        "answer_list": [
+            "BOONK COBA ESES",
+            "brisik ajg",
+            "singkat, padat, bangsat",
+            "WET SLOW BANG"
+        ]
+    },
+    {
+        "answer": "DIKEROYOK SIRKEL",
+        "file": "DIKEROYOK SIRKEL.webp",
+        "censor": "b",
+        "answer_list": [
+            "WADUH",
+            "DIKEROYOK SIRKEL",
+            "LU ASIK BANG",
+            "GACOR KANG"
+        ]
+    },
+    {
+        "answer": "AKU KULIAH",
+        "file": "AKU KULIAH.webp",
+        "censor": "b",
+        "answer_list": [
+            "AKU KULIAH",
+            "OWALAH ASU",
+            "Sudahlah koboi",
+            "dongo"
+        ]
+    },
+    {
+        "answer": "GW TANDAIN MUKA LO!",
+        "file": "GW TANDAIN MUKA LO!.webp",
+        "censor": "tb",
+        "answer_list": [
+            "GW UDAH MUAK",
+            "KAU LAGI",
+            "GW TANDAIN MUKA LO!",
+            "PUNTEN"
+        ]
+    },
+    {
+        "answer": "MALES SUMPAH",
+        "file": "MALES SUMPAH.webp",
+        "censor": "b",
+        "answer_list": [
+            "Ywdh boleh",
+            "KECEWA BERAT",
+            "MALES SUMPAH",
+            "assalamualaikum"
+        ]
+    },
+    {
+        "answer": "PEMBOHONG KAU PEMBOHONG",
+        "file": "PEMBOHONG KAU PEMBOHONG.webp",
+        "censor": "tb",
+        "answer_list": [
+            "PEMBOHONG KAU PEMBOHONG",
+            "segera menuju lokasi",
+            "assalamualaikum",
+            "tolol sok keras pula"
+        ]
+    },
+    {
+        "answer": "KEBAL ROASTING",
+        "file": "KEBAL ROASTING.webp",
+        "censor": "b",
+        "answer_list": [
+            "Nelen Fakta",
+            "KEBAL ROASTING",
+            "WINDAH ASPAL TOL CIPULARANG",
+            "Ga Peduli"
+        ]
+    },
+    {
+        "answer": "BUNUH ADMIN",
+        "file": "BUNUH ADMIN.webp",
+        "censor": "b",
+        "answer_list": [
+            "tolol sok keras pula",
+            "BUNUH ADMIN",
+            "LAGI NAIK DAUN",
+            "Iri bilang bos"
+        ]
+    },
+    {
+        "answer": "MAAP BANG BERCANDA",
+        "file": "MAAP BANG BERCANDA.webp",
+        "censor": "tb",
+        "answer_list": [
+            "OWALAH ASU",
+            "PUNTEN",
+            "MAAP BANG BERCANDA",
+            "DILUAR NALAR COY"
+        ]
+    },
+    {
+        "answer": "Ya Allah, seperti biasa Aamiin",
+        "file": "Ya Allah, seperti biasa Aamiin.webp",
+        "censor": "tb",
+        "answer_list": [
+            "Ga Peduli",
+            "bang, kalian stres nya cuma bercanda kan",
+            "Ya Allah, seperti biasa Aamiin",
+            "GACOR KANG"
+        ]
+    },
+    {
+        "answer": "CERDAS",
+        "file": "CERDAS.webp",
+        "censor": "b",
+        "answer_list": [
+            "HARI INI MASAK APA CHEF?",
+            "CERDAS",
+            "tewas dihitamkan",
+            "Ywdh boleh"
+        ]
+    },
+    {
+        "answer": "serlok tak parani",
+        "file": "serlok tak parani.webp",
+        "censor": "tb",
+        "answer_list": [
+            "serlok tak parani",
+            "PAKE NANYA",
+            "Sucipto",
+            "DIKEROYOK SIRKEL"
+        ]
+    },
+    {
+        "answer": "rasa sakit ini terasa nikmat",
+        "file": "rasa sakit ini terasa nikmat.webp",
+        "censor": "tb",
+        "answer_list": [
+            "PEMBOHONK PUBLIK",
+            "rasa sakit ini terasa nikmat",
+            "BUNUH ADMIN",
+            "Dasar Anak Bangsad"
+        ]
+    },
+    {
+        "answer": "LAGI NAIK DAUN",
+        "file": "LAGI NAIK DAUN.webp",
+        "censor": "b",
+        "answer_list": [
+            "singkat, padat, bangsat",
+            "UTIWI",
+            "LAGI NAIK DAUN",
+            "TERTAWA TAPI TERLUKA"
+        ]
+    },
+    {
+        "answer": "SERIUS LU",
+        "file": "SERIUS LU.webp",
+        "censor": "b",
+        "answer_list": [
+            "berpikir sejenak",
+            "WET SLOW BANG",
+            "aph iyh?",
+            "SERIUS LU"
+        ]
+    },
+    {
+        "answer": "JADI ELU",
+        "file": "JADI ELU.webp",
+        "censor": "b",
+        "answer_list": [
+            "PAGI LORD",
+            "JADI ELU",
+            "GW TANDAIN MUKA LO!",
+            "DILUAR NALAR COY"
+        ]
+    },
+    {
+        "answer": "ADMIN DATANG",
+        "file": "ADMIN DATANG.webp",
+        "censor": "tb",
+        "answer_list": [
+            "AKU ESEMPE",
+            "ADMIN DATANG",
+            "tolol sok keras pula",
+            "MACEM TAK BETUL BUDAK NI"
+        ]
+    },
+    {
+        "answer": "Ngeri-ngeri",
+        "file": "Ngeri-ngeri.webp",
+        "censor": "b",
+        "answer_list": [
+            "Terus terang",
+            "PENASARAN",
+            "Ngeri-ngeri",
+            "EA"
+        ]
+    },
+    {
+        "answer": "B AJA",
+        "file": "B AJA.webp",
+        "censor": "b",
+        "answer_list": [
+            "kaya ada yang ngomongin gw",
+            "KSABAR",
+            "nyerah gue bro",
+            "B AJA"
+        ]
+    },
+    {
+        "answer": "PUNTEN",
+        "file": "PUNTEN.webp",
+        "censor": "b",
+        "answer_list": [
+            "ini saatnya...",
+            "KECEWA BERAT GW",
+            "NGUAWOR",
+            "PUNTEN"
+        ]
+    },
+    {
+        "answer": "ANJIR COOL BET GWEH",
+        "file": "ANJIR COOL BET GWEH.webp",
+        "censor": "t",
+        "answer_list": [
+            "Ywdh boleh",
+            "BACOT",
+            "ANJIR COOL BET GWEH",
+            "AKU PERGI"
+        ]
+    },
+    {
+        "answer": "singkat, padat, bangsat",
+        "file": "singkat, padat, bangsat.webp",
+        "censor": "b",
+        "answer_list": [
+            "Ngeri-ngeri",
+            "PEMBOHONK PUBLIK",
+            "singkat, padat, bangsat",
+            "sopan santun telah hilang"
+        ]
+    },
+    {
+        "answer": "tewas dihitamkan",
+        "file": "tewas dihitamkan.webp",
+        "censor": "b",
+        "answer_list": [
+            "SUDAHLAH WIBU",
+            "GW TANDAIN MUKA LO!",
+            "ga waras",
+            "tewas dihitamkan"
+        ]
+    },
+    {
+        "answer": "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS",
+        "file": "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS.webp",
+        "censor": "b",
+        "answer_list": [
+            "CEWEK SAYA",
+            "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS",
+            "Dah Lah.....",
+            "Ga Peduli"
+        ]
+    },
+    {
+        "answer": "AKU NGANGGUR",
+        "file": "AKU NGANGGUR.webp",
+        "censor": "b",
+        "answer_list": [
+            "GW UDAH MUAK",
+            "AKU NGANGGUR",
+            "MENYALA ABANGKUH",
+            "bang, kalian stres nya cuma bercanda kan"
+        ]
+    },
+    {
+        "answer": "MIKIR TUH PAKE OTAK",
+        "file": "MIKIR TUH PAKE OTAK.webp",
+        "censor": "b",
+        "answer_list": [
+            "Woy Sound horeg Rumahku rusak nih",
+            "KACANGIN AJA BRO",
+            "MIKIR TUH PAKE OTAK",
+            "Bagaimana cara kita memberitahukannya?"
+        ]
+    },
+    {
+        "answer": "PERASAN GUA GK ENAK NIH",
+        "file": "PERASAN GUA GK ENAK NIH.webp",
+        "censor": "tb",
+        "answer_list": [
+            "AKU ESDE",
+            "B AJA",
+            "PERASAN GUA GK ENAK NIH",
+            "EA"
+        ]
+    },
+    {
+        "answer": "LU DOANG",
+        "file": "LU DOANG.webp",
+        "censor": "b",
+        "answer_list": [
+            "CERDAS",
+            "AKU ESDE",
+            "LU DOANG",
+            "gada otak"
+        ]
+    },
+    {
+        "answer": "SUDAH WAKTUNYA LOGIN",
+        "file": "SUDAH WAKTUNYA LOGIN.webp",
+        "censor": "tb",
+        "answer_list": [
+            "AWAS KAMU YAH",
+            "SUDAH WAKTUNYA LOGIN",
+            "ini saatnya...",
+            "APABILA"
+        ]
+    },
+    {
+        "answer": "ingfokan",
+        "file": "ingfokan.webp",
+        "censor": "b",
+        "answer_list": [
+            "ONDE MANDE",
+            "GACOR KANG",
+            "SUDAH WAKTUNYA LOGIN",
+            "ingfokan"
+        ]
+    },
+    {
+        "answer": "GW UDAH MUAK",
+        "file": "GW UDAH MUAK.webp",
+        "censor": "b",
+        "answer_list": [
+            "GW UDAH MUAK",
+            "Nelen Fakta",
+            "segera menuju lokasi",
+            "PAGI LORD"
+        ]
+    },
+    {
+        "answer": "PAK YU",
+        "file": "PAK YU.webp",
+        "censor": "b",
+        "answer_list": [
+            "SIP SYA CATAT",
+            "SOK ASIK",
+            "PAK YU",
+            "brisik ajg"
+        ]
+    },
+    {
+        "answer": "ga waras",
+        "file": "ga waras.webp",
+        "censor": "b",
+        "answer_list": [
+            "oh iya kah?",
+            "ga waras",
+            "WINDAH ASPAL TOL CIPULARANG",
+            "wibu goblok"
+        ]
+    },
+    {
+        "answer": "GAK MANUK AKAL",
+        "file": "GAK MANUK AKAL.webp",
+        "censor": "tb",
+        "answer_list": [
+            "MAAP BANG BERCANDA",
+            "kalo gw malu tuh",
+            "GAK MANUK AKAL",
+            "MANCING PERKORO"
+        ]
+    },
+    {
+        "answer": "SIP SYA CATAT",
+        "file": "SIP SYA CATAT.webp",
+        "censor": "b",
+        "answer_list": [
+            "PAK YU",
+            "BUNUH ADMIN",
+            "SIP SYA CATAT",
+            "MALES SUMPAH"
+        ]
+    },
+    {
+        "answer": "brisik ajg",
+        "file": "brisik ajg.webp",
+        "censor": "b",
+        "answer_list": [
+            "3JT pun kubayar",
+            "Turu",
+            "tewas dihitamkan",
+            "brisik ajg"
+        ]
+    },
+    {
+        "answer": "angkat tangan saya menyerah",
+        "file": "angkat tangan saya menyerah.webp",
+        "censor": "tb",
+        "answer_list": [
+            "HAI SAYANG",
+            "angkat tangan saya menyerah",
+            "NGUAWOR",
+            "segera menuju lokasi"
+        ]
+    },
+    {
+        "answer": "Ingat Anak-anak Tetaplah berada di jalan setan",
+        "file": "Ingat Anak-anak Tetaplah berada di jalan setan.webp",
+        "censor": "tb",
+        "answer_list": [
+            "oh iya kah?",
+            "wibu goblok",
+            "ADA-ADA SAJA",
+            "Ingat Anak-anak Tetaplah berada di jalan setan"
+        ]
+    },
+    {
+        "answer": "oh iya kah?",
+        "file": "oh iya kah?.webp",
+        "censor": "b",
+        "answer_list": [
+            "kalo gw malu tuh",
+            "WADUH",
+            "AKU NGEPUNK",
+            "oh iya kah?"
+        ]
+    },
+    {
+        "answer": "NGOTAK GOBLOK",
+        "file": "NGOTAK GOBLOK.webp",
+        "censor": "t",
+        "answer_list": [
+            "NGOTAK GOBLOK",
+            "BENTAR GATEL",
             "KECEWA BERAT GW",
             "maaf gak minaj"
         ]
     },
     {
-        "answer": "MACEM TAK BETUL BUDAK NI",
-        "file": "MACEM TAK BETUL BUDAK NI.png",
+        "answer": "ONDE MANDE",
+        "file": "ONDE MANDE.webp",
         "censor": "b",
         "answer_list": [
-            "PUNTEN",
-            "PLISS BANG AJAK GW",
-            "MACEM TAK BETUL BUDAK NI",
-            "kalo gw malu tuh"
+            "dongo",
+            "ONDE MANDE",
+            "KAU LAGI",
+            "AMPUN JAGOAN"
         ]
     },
     {
-        "answer": "CERDAS",
-        "file": "CERDAS.png",
-        "censor": "b",
-        "answer_list": [
-            "CERDAS",
-            "MENDING TIDUR",
-            "CANDA BANG NIH 500",
-            "ADMIN DATANG"
-        ]
-    },
-    {
-        "answer": "KECEWA BERAT",
-        "file": "KECEWA BERAT.png",
+        "answer": "AWAS KAMU YAH",
+        "file": "AWAS KAMU YAH.webp",
         "censor": "tb",
         "answer_list": [
-            "KECEWA BERAT",
-            "lu mau gw pukul?",
-            "Ngeri-ngeri",
+            "3JT pun kubayar",
+            "angkat tangan saya menyerah",
+            "AWAS KAMU YAH",
             "PAKE NANYA"
         ]
     },
     {
-        "answer": "APA COBA",
-        "file": "APA COBA.png",
+        "answer": "Ywdh boleh",
+        "file": "Ywdh boleh.webp",
         "censor": "b",
         "answer_list": [
-            "assalamualaikum",
-            "Mw! Bnget Mw! Bnget",
-            "Ga Peduli",
-            "APA COBA"
+            "Ywdh boleh",
+            "APA COBA",
+            "MAAP BANG BERCANDA",
+            "ini saatnya..."
         ]
     },
     {
-        "answer": "SEGELAS AJAH",
-        "file": "SEGELAS AJAH.png",
+        "answer": "Tumben dari barat",
+        "file": "Tumben dari barat.webp",
         "censor": "b",
         "answer_list": [
-            "Ya Allah, seperti biasa Aamiin",
-            "SOK ASIK",
-            "LU SOK ASIK BANGSAT",
-            "SEGELAS AJAH"
+            "Sebaiknya jangan terlalu gegabah",
+            "Tumben dari barat",
+            "BANG LU SEPUH YAK",
+            "LOGIN"
         ]
     },
     {
-        "answer": "ingfokan",
-        "file": "ingfokan.png",
-        "censor": "b",
-        "answer_list": [
-            "ingfokan",
-            "ADA-ADA SAJA",
-            "AH YG BENER",
-            "segera menuju lokasi"
-        ]
-    },
-    {
-        "answer": "BUNUH ADMIN",
-        "file": "BUNUH ADMIN.png",
-        "censor": "b",
-        "answer_list": [
-            "MACEM TAK BETUL BUDAK NI",
-            "NTAR DULU GUA PIKIR PIKIR DULU",
-            "bruakakak",
-            "BUNUH ADMIN"
-        ]
-    },
-    {
-        "answer": "KSABAR",
-        "file": "KSABAR.png",
-        "censor": "b",
-        "answer_list": [
-            "Iri bilang bos",
-            "SEGELAS AJAH",
-            "TABAH",
-            "KSABAR"
-        ]
-    },
-    {
-        "answer": "PAK YU",
-        "file": "PAK YU.png",
-        "censor": "b",
-        "answer_list": [
-            "segera menuju lokasi",
-            "MACEM TAK BETUL BUDAK NI",
-            "PAK YU",
-            "CANDA BANG NIH 500"
-        ]
-    },
-    {
-        "answer": "APA TUHH KOK DIHAPUSS??",
-        "file": "APA TUHH KOK DIHAPUSS??.png",
+        "answer": "NGUAWOR",
+        "file": "NGUAWOR.webp",
         "censor": "t",
         "answer_list": [
-            "bang, kalian stres nya cuma bercanda kan",
-            "gada otak",
-            "B AJA",
-            "APA TUHH KOK DIHAPUSS??"
+            "PLISS BANG AJAK GW",
+            "NGUAWOR",
+            "segera menuju lokasi",
+            "PERASAN GUA GK ENAK NIH"
         ]
     },
     {
-        "answer": "wibu goblok",
-        "file": "wibu goblok.png",
+        "answer": "KECEWA BERAT GW",
+        "file": "KECEWA BERAT GW.webp",
+        "censor": "t",
+        "answer_list": [
+            "KAU LAGI",
+            "KECEWA BERAT GW",
+            "AKU JUGA MW",
+            "PERASAN GUA GK ENAK NIH"
+        ]
+    },
+    {
+        "answer": "TERTAWA TAPI TERLUKA",
+        "file": "TERTAWA TAPI TERLUKA.webp",
         "censor": "b",
         "answer_list": [
-            "wibu goblok",
-            "SERIUS LU",
-            "Sucipto",
-            "berpikir sejenak"
+            "BANG LU SEPUH YAK",
+            "TERTAWA TAPI TERLUKA",
+            "LU ASIK BANG",
+            "MAAP BANG BERCANDA"
         ]
     },
     {
-        "answer": "PUNTEN",
-        "file": "PUNTEN.png",
+        "answer": "PEMBOHONK PUBLIK",
+        "file": "PEMBOHONK PUBLIK.webp",
+        "censor": "tb",
+        "answer_list": [
+            "PEPEK",
+            "APA COBA",
+            "PEMBOHONK PUBLIK",
+            "bruakakak"
+        ]
+    },
+    {
+        "answer": "AKU NGEPUNK",
+        "file": "AKU NGEPUNK.webp",
+        "censor": "b",
+        "answer_list": [
+            "SOK ASIK",
+            "ONDE MANDE",
+            "AKU NGEPUNK",
+            "si paling si paling daripada lu si pasi pasiri sipasipasi"
+        ]
+    },
+    {
+        "answer": "SOK ASIK",
+        "file": "SOK ASIK.webp",
+        "censor": "b",
+        "answer_list": [
+            "SOK ASIK",
+            "wibu goblok",
+            "JADI ELU",
+            "Iri bilang bos"
+        ]
+    },
+    {
+        "answer": "bang, kalian stres nya cuma bercanda kan",
+        "file": "bang, kalian stres nya cuma bercanda kan.webp",
+        "censor": "tb",
+        "answer_list": [
+            "najis baperan",
+            "NTAR DULU GUA PIKIR PIKIR DULU",
+            "bang, kalian stres nya cuma bercanda kan",
+            "singkat, padat, bangsat"
+        ]
+    },
+    {
+        "answer": "CANDA BANG NIH 500",
+        "file": "CANDA BANG NIH 500.webp",
+        "censor": "tb",
+        "answer_list": [
+            "CANDA BANG NIH 500",
+            "MANCING PERKORO",
+            "BOONK COBA ESES",
+            "maaf gak minaj"
+        ]
+    },
+    {
+        "answer": "AFFH IYH",
+        "file": "AFFH IYH.webp",
+        "censor": "b",
+        "answer_list": [
+            "KECEWA BERAT",
+            "nyerah gue bro",
+            "AFFH IYH",
+            "ONDE MANDE"
+        ]
+    },
+    {
+        "answer": "MACEM TAK BETUL BUDAK NI",
+        "file": "MACEM TAK BETUL BUDAK NI.webp",
+        "censor": "b",
+        "answer_list": [
+            "MACEM TAK BETUL BUDAK NI",
+            "MANCING PERKORO",
+            "LO ITU GA DI AJAK GA USAH SOK ASIK",
+            "JANCOK ASU COCOTE SAMPEYAN!!! RENE NGOPI!!! CEK INBOX SAT!!!!!"
+        ]
+    },
+    {
+        "answer": "KACANGIN AJA BRO",
+        "file": "KACANGIN AJA BRO.webp",
         "censor": "b",
         "answer_list": [
             "PUNTEN",
+            "PANJENENGAN DANCOK",
+            "NGGAK",
+            "KACANGIN AJA BRO"
+        ]
+    },
+    {
+        "answer": "SLEBEWW",
+        "file": "SLEBEWW.webp",
+        "censor": "b",
+        "answer_list": [
             "Apasih ngabs",
+            "si paling si paling daripada lu si pasi pasiri sipasipasi",
+            "SLEBEWW",
+            "diam bukan berarti limbad"
+        ]
+    },
+    {
+        "answer": "AKU PERGI",
+        "file": "AKU PERGI.webp",
+        "censor": "b",
+        "answer_list": [
+            "AWAS KAMU YAH",
             "MANCING PERKORO",
-            "ANJIR COOL BET GWEH"
+            "AKU PERGI",
+            "AKU NGANGGUR"
         ]
     },
     {
-        "answer": "GEGE LU BANG",
-        "file": "GEGE LU BANG.png",
-        "censor": "b",
-        "answer_list": [
-            "PERASAN GUA GK ENAK NIH",
-            "oh iya kah?",
-            "aph iyh?",
-            "GEGE LU BANG"
-        ]
-    },
-    {
-        "answer": "HAI SAYANG",
-        "file": "HAI SAYANG.png",
-        "censor": "b",
-        "answer_list": [
-            "KACANGIN AJA BRO",
-            "AFFH IYH",
-            "HAI SAYANG",
-            "EA"
-        ]
-    },
-    {
-        "answer": "PEMBOHONG KAU PEMBOHONG",
-        "file": "PEMBOHONG KAU PEMBOHONG.png",
+        "answer": "BOONK COBA ESES",
+        "file": "BOONK COBA ESES.webp",
         "censor": "tb",
         "answer_list": [
-            "LO ITU GA DI AJAK GA USAH SOK ASIK",
-            "Iri bilang bos",
-            "kaya ada yang ngomongin gw",
-            "PEMBOHONG KAU PEMBOHONG"
+            "AKU NGEPUNK",
+            "SEGELAS AJAH",
+            "GW MULU ANJING",
+            "BOONK COBA ESES"
         ]
     },
     {
-        "answer": "ga waras",
-        "file": "ga waras.png",
+        "answer": "GW MULU ANJING",
+        "file": "GW MULU ANJING.webp",
         "censor": "b",
         "answer_list": [
-            "PERASAN GUA GK ENAK NIH",
-            "ga waras",
-            "SIP SYA CATAT",
-            "LU DOANG"
+            "si paling si paling daripada lu si pasi pasiri sipasipasi",
+            "Mampus kntl Yang sabar ya bro",
+            "GW MULU ANJING",
+            "BACOT"
         ]
     },
     {
-        "answer": "LU ASIK BANG",
-        "file": "LU ASIK BANG.png",
-        "censor": "b",
+        "answer": "kalo gw malu tuh",
+        "file": "kalo gw malu tuh.webp",
+        "censor": "tb",
         "answer_list": [
-            "KENAPA?? GAK SENENG!!",
-            "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta",
-            "WADUH",
-            "LU ASIK BANG"
+            "Ingat Anak-anak Tetaplah berada di jalan setan",
+            "kalo gw malu tuh",
+            "SUDAH CUKUP",
+            "Woy Sound horeg Rumahku rusak nih"
         ]
     },
     {
-        "answer": "PAGI LORD",
-        "file": "PAGI LORD.png",
-        "censor": "b",
+        "answer": "Woy Sound horeg Rumahku rusak nih",
+        "file": "Woy Sound horeg Rumahku rusak nih.webp",
+        "censor": "m",
         "answer_list": [
-            "MAIN GAME BUAT HILANGIN STRES EH MALAH LOSE STREAK",
-            "MAJU LO SINI AJG",
-            "PAGI LORD",
-            "BENTAR GATEL"
+            "AKU NGEPUNK",
+            "Woy Sound horeg Rumahku rusak nih",
+            "MAS ANIES, MAS ANIES",
+            "si paling si paling daripada lu si pasi pasiri sipasipasi"
         ]
     },
     {
-        "answer": "AKU ESEMA",
-        "file": "AKU ESEMA.png",
+        "answer": "AH YG BENER",
+        "file": "AH YG BENER.webp",
         "censor": "b",
         "answer_list": [
-            "AKU ESEMA",
-            "SIP SYA CATAT",
-            "diam bukan berarti limbad",
-            "tewas dihitamkan"
+            "GW TANDAIN MUKA LO!",
+            "MIKIR TUH PAKE OTAK",
+            "AH YG BENER",
+            "ADA-ADA SAJA"
         ]
     },
     {
-        "answer": "Sucipto",
-        "file": "Sucipto.png",
-        "censor": "b",
+        "answer": "KECEWA BERAT",
+        "file": "KECEWA BERAT.webp",
+        "censor": "tb",
         "answer_list": [
-            "BUNUH ADMIN",
-            "tolol sok keras pula",
-            "Sucipto",
-            "PEMBOHONG KAU PEMBOHONG"
-        ]
-    },
-    {
-        "answer": "SIP SYA CATAT",
-        "file": "SIP SYA CATAT.png",
-        "censor": "b",
-        "answer_list": [
-            "BUNUH ADMIN",
-            "SIP SYA CATAT",
-            "WADUH",
-            "MIKIR TUH PAKE OTAK"
-        ]
-    },
-    {
-        "answer": "SERIUS LU",
-        "file": "SERIUS LU.png",
-        "censor": "b",
-        "answer_list": [
-            "ga waras",
-            "tewas dihitamkan",
-            "SERIUS LU",
-            "AKU ESEMKA"
-        ]
-    },
-    {
-        "answer": "MALES SUMPAH",
-        "file": "MALES SUMPAH.png",
-        "censor": "b",
-        "answer_list": [
-            "BOONK COBA ESES",
-            "MALES SUMPAH",
+            "KECEWA BERAT",
+            "DIA KENAPA?",
             "tolol sok keras pula",
             "AKU KERJA"
         ]
     },
     {
         "answer": "PEPEK",
-        "file": "PEPEK.png",
-        "censor": "b",
-        "answer_list": [
-            "GW TANDAIN MUKA LO!",
-            "PEPEK",
-            "NTAR DULU GUA PIKIR PIKIR DULU",
-            "oh iya kah?"
-        ]
-    },
-    {
-        "answer": "Ingat kita ga gud luking",
-        "file": "Ingat kita ga gud luking.png",
+        "file": "PEPEK.webp",
         "censor": "b",
         "answer_list": [
             "gada otak",
-            "PEMBOHONK PUBLIK",
-            "Ingat kita ga gud luking",
-            "AKU ESEMKA"
-        ]
-    },
-    {
-        "answer": "3JT pun kubayar",
-        "file": "3JT pun kubayar.png",
-        "censor": "t",
-        "answer_list": [
-            "singkat, padat, bangsat",
-            "GEGE LU BANG",
-            "PEMBOHONK PUBLIK",
-            "3JT pun kubayar"
-        ]
-    },
-    {
-        "answer": "pura2 nggak liat",
-        "file": "pura2 nggak liat.png",
-        "censor": "b",
-        "answer_list": [
             "MANCING PERKORO",
-            "pura2 nggak liat",
-            "BOONK COBA ESES",
-            "CERDAS"
-        ]
-    },
-    {
-        "answer": "segera menuju lokasi",
-        "file": "segera menuju lokasi.png",
-        "censor": "b",
-        "answer_list": [
-            "JADI ELU",
-            "SUDAH WAKTUNYA LOGIN",
-            "BANG LU SEPUH YAK",
-            "segera menuju lokasi"
-        ]
-    },
-    {
-        "answer": "brisik ajg",
-        "file": "brisik ajg.png",
-        "censor": "b",
-        "answer_list": [
-            "MAS ANIES, MAS ANIES",
-            "LAGI NAIK DAUN",
-            "brisik ajg",
-            "kalo gw malu tuh"
-        ]
-    },
-    {
-        "answer": "MIKIR TUH PAKE OTAK",
-        "file": "MIKIR TUH PAKE OTAK.png",
-        "censor": "b",
-        "answer_list": [
-            "Woy Sound horeg Rumahku rusak nih",
-            "berpikir sejenak",
-            "MIKIR TUH PAKE OTAK",
-            "kalo gw malu tuh"
-        ]
-    },
-    {
-        "answer": "LU DOANG",
-        "file": "LU DOANG.png",
-        "censor": "b",
-        "answer_list": [
-            "berpikir sejenak",
-            "UTIWI",
-            "LU DOANG",
-            "B AJA"
-        ]
-    },
-    {
-        "answer": "AKU KERJA",
-        "file": "AKU KERJA.png",
-        "censor": "b",
-        "answer_list": [
             "bruakakak",
-            "diam bukan berarti limbad",
-            "GAS BY ONE AJG",
-            "AKU KERJA"
-        ]
-    },
-    {
-        "answer": "BACOT KAU BABI",
-        "file": "BACOT KAU BABI.png",
-        "censor": "b",
-        "answer_list": [
-            "dongo",
-            "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS",
-            "MIKIR TUH PAKE OTAK",
-            "BACOT KAU BABI"
-        ]
-    },
-    {
-        "answer": "SOK ASIK",
-        "file": "SOK ASIK.png",
-        "censor": "b",
-        "answer_list": [
-            "EXTRA JOSS",
-            "SOK ASIK",
-            "super gacor",
-            "NTAR DULU GUA PIKIR PIKIR DULU"
-        ]
-    },
-    {
-        "answer": "DILUAR NALAR COY",
-        "file": "DILUAR NALAR COY.png",
-        "censor": "t",
-        "answer_list": [
-            "BOONK COBA ESES",
-            "DILUAR NALAR COY",
-            "nyerah gue bro",
-            "SOK ASIK"
-        ]
-    },
-    {
-        "answer": "Sebaiknya jangan terlalu gegabah",
-        "file": "Sebaiknya jangan terlalu gegabah.png",
-        "censor": "b",
-        "answer_list": [
-            "HARI INI MASAK APA CHEF?",
-            "Dasar Anak Bangsad",
-            "Sebaiknya jangan terlalu gegabah",
-            "KECEWA BERAT"
-        ]
-    },
-    {
-        "answer": "gada otak",
-        "file": "gada otak.png",
-        "censor": "b",
-        "answer_list": [
-            "ANJIR COOL BET GWEH",
-            "NTAR DULU GUA PIKIR PIKIR DULU",
-            "SIP SYA CATAT",
-            "gada otak"
-        ]
-    },
-    {
-        "answer": "Ywdh boleh",
-        "file": "Ywdh boleh.png",
-        "censor": "b",
-        "answer_list": [
-            "SIP SYA CATAT",
-            "MANCING PERKORO",
-            "3JT pun kubayar",
-            "Ywdh boleh"
-        ]
-    },
-    {
-        "answer": "Bagaimana cara kita memberitahukannya?",
-        "file": "Bagaimana cara kita memberitahukannya?.png",
-        "censor": "b",
-        "answer_list": [
-            "Bagaimana cara kita memberitahukannya?",
-            "AKU KERJA",
-            "AKU ESDE",
-            "APA TUHH KOK DIHAPUSS??"
-        ]
-    },
-    {
-        "answer": "KELAS KING",
-        "file": "KELAS KING.png",
-        "censor": "tb",
-        "answer_list": [
-            "SIP SYA CATAT",
-            "BACOT KAU BABI",
-            "KELAS KING",
-            "GW MULU ANJING"
-        ]
-    },
-    {
-        "answer": "MAJU LO SINI AJG",
-        "file": "MAJU LO SINI AJG.png",
-        "censor": "b",
-        "answer_list": [
-            "MAJU LO SINI AJG",
-            "Apasih ngabs",
-            "CEWEK SAYA",
-            "serlok tak parani"
-        ]
-    },
-    {
-        "answer": "MAIN GAME BUAT HILANGIN STRES EH MALAH LOSE STREAK",
-        "file": "MAIN GAME BUAT HILANGIN STRES EH MALAH LOSE STREAK.png",
-        "censor": "tb",
-        "answer_list": [
-            "KECEWA BERAT",
-            "PEMBOHONG KAU PEMBOHONG",
-            "Woy Sound horeg Rumahku rusak nih",
-            "MAIN GAME BUAT HILANGIN STRES EH MALAH LOSE STREAK"
-        ]
-    },
-    {
-        "answer": "KAU LAGI",
-        "file": "KAU LAGI.png",
-        "censor": "b",
-        "answer_list": [
-            "KAU LAGI",
-            "ingfokan",
-            "Awkoakwoakwoak",
-            "PANJENENGAN DANCOK"
-        ]
-    },
-    {
-        "answer": "SUDAH CUKUP",
-        "file": "SUDAH CUKUP.png",
-        "censor": "b",
-        "answer_list": [
-            "ONDE MANDE",
-            "SUDAH CUKUP",
-            "ADA-ADA SAJA",
-            "SUDAH WAKTUNYA LOGIN"
-        ]
-    },
-    {
-        "answer": "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS",
-        "file": "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS.png",
-        "censor": "b",
-        "answer_list": [
-            "BACOT",
-            "kaya ada yang ngomongin gw",
-            "maaf lagi mode tobat",
-            "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS"
-        ]
-    },
-    {
-        "answer": "GAS BY ONE AJG",
-        "file": "GAS BY ONE AJG.png",
-        "censor": "b",
-        "answer_list": [
-            "MIKIR TUH PAKE OTAK",
-            "BANG LU SEPUH YAK",
-            "SUDAH CUKUP",
-            "GAS BY ONE AJG"
-        ]
-    },
-    {
-        "answer": "SUDAH WAKTUNYA LOGIN",
-        "file": "SUDAH WAKTUNYA LOGIN.png",
-        "censor": "tb",
-        "answer_list": [
-            "bruakakak",
-            "BANG LU SEPUH YAK",
-            "SUDAH WAKTUNYA LOGIN",
-            "Sucipto"
-        ]
-    },
-    {
-        "answer": "ADMIN DATANG",
-        "file": "ADMIN DATANG.png",
-        "censor": "tb",
-        "answer_list": [
-            "Ya Allah, seperti biasa Aamiin",
-            "KEBAL ROASTING",
-            "ADMIN DATANG",
-            "LU DOANG"
-        ]
-    },
-    {
-        "answer": "GAK MANUK AKAL",
-        "file": "GAK MANUK AKAL.png",
-        "censor": "tb",
-        "answer_list": [
-            "ADMIN DATANG",
-            "angkat tangan saya menyerah",
-            "GAK MANUK AKAL",
-            "singkat, padat, bangsat"
-        ]
-    },
-    {
-        "answer": "bruakakak",
-        "file": "bruakakak.png",
-        "censor": "b",
-        "answer_list": [
-            "bruakakak",
-            "diam bukan berarti limbad",
-            "tewas dihitamkan",
-            "super gacor"
-        ]
-    },
-    {
-        "answer": "dongo",
-        "file": "dongo.png",
-        "censor": "b",
-        "answer_list": [
-            "PLISS BANG AJAK GW",
-            "dongo",
-            "MALES SUMPAH",
-            "GAS BY ONE AJG"
-        ]
-    },
-    {
-        "answer": "angkat tangan saya menyerah",
-        "file": "angkat tangan saya menyerah.png",
-        "censor": "tb",
-        "answer_list": [
-            "angkat tangan saya menyerah",
-            "mikir dong Lo kan dah gede !",
-            "GW UDAH MUAK",
-            "bruakakak"
-        ]
-    },
-    {
-        "answer": "APABILA",
-        "file": "APABILA.png",
-        "censor": "b",
-        "answer_list": [
-            "Ga Peduli",
-            "NGOTAK GOBLOK",
-            "APABILA",
-            "SERIUS LU"
-        ]
-    },
-    {
-        "answer": "ANJIR COOL BET GWEH",
-        "file": "ANJIR COOL BET GWEH.png",
-        "censor": "t",
-        "answer_list": [
-            "GAS BY ONE AJG",
-            "lu mau gw pukul?",
-            "PENASARAN",
-            "ANJIR COOL BET GWEH"
-        ]
-    },
-    {
-        "answer": "Sudahlah Badut",
-        "file": "Sudahlah Badut.png",
-        "censor": "b",
-        "answer_list": [
-            "Ya Allah, seperti biasa Aamiin",
-            "APABILA",
-            "oh iya kah?",
-            "Sudahlah Badut"
-        ]
-    },
-    {
-        "answer": "WADUH",
-        "file": "WADUH.png",
-        "censor": "b",
-        "answer_list": [
-            "PANJENENGAN DANCOK",
-            "LU DOANG",
-            "WADUH",
-            "GW MULU ANJING"
-        ]
-    },
-    {
-        "answer": "SLEBEWW",
-        "file": "SLEBEWW.png",
-        "censor": "b",
-        "answer_list": [
-            "PAK YU",
-            "Tumben dari barat",
-            "SLEBEWW",
-            "WET SLOW BANG"
-        ]
-    },
-    {
-        "answer": "PLISS BANG AJAK GW",
-        "file": "PLISS BANG AJAK GW.png",
-        "censor": "b",
-        "answer_list": [
-            "MANCING PERKORO",
-            "Ga Peduli",
-            "PLISS BANG AJAK GW",
-            "AKU NGEPUNK"
-        ]
-    },
-    {
-        "answer": "CANDA BANG NIH 500",
-        "file": "CANDA BANG NIH 500.png",
-        "censor": "tb",
-        "answer_list": [
-            "SEGELAS AJAH",
-            "DIA KENAPA?",
-            "AKU NGANGGUR",
-            "CANDA BANG NIH 500"
-        ]
-    },
-    {
-        "answer": "tewas dihitamkan",
-        "file": "tewas dihitamkan.png",
-        "censor": "b",
-        "answer_list": [
-            "bang, kalian stres nya cuma bercanda kan",
-            "tewas dihitamkan",
-            "AKU NGEPUNK",
-            "Awkoakwoakwoak"
-        ]
-    },
-    {
-        "answer": "LO ITU GA DI AJAK GA USAH SOK ASIK",
-        "file": "LO ITU GA DI AJAK GA USAH SOK ASIK.png",
-        "censor": "b",
-        "answer_list": [
-            "brisik ajg",
-            "LO ITU GA DI AJAK GA USAH SOK ASIK",
-            "Mampus kntl Yang sabar ya bro",
-            "NGGAK"
-        ]
-    },
-    {
-        "answer": "assalamualaikum",
-        "file": "assalamualaikum.png",
-        "censor": "b",
-        "answer_list": [
-            "HAI SAYANG",
-            "AKU KERJA",
-            "HARI INI MASAK APA CHEF?",
-            "assalamualaikum"
-        ]
-    },
-    {
-        "answer": "super gacor",
-        "file": "super gacor.png",
-        "censor": "b",
-        "answer_list": [
-            "HARI INI MASAK APA CHEF?",
-            "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta",
-            "ONDE MANDE",
-            "super gacor"
-        ]
-    },
-    {
-        "answer": "Sudahlah koboi",
-        "file": "Sudahlah koboi.png",
-        "censor": "b",
-        "answer_list": [
-            "AKU ESDE",
-            "gada otak",
-            "Sudahlah koboi",
-            "MAS ANIES, MAS ANIES"
-        ]
-    },
-    {
-        "answer": "PERASAN GUA GK ENAK NIH",
-        "file": "PERASAN GUA GK ENAK NIH.png",
-        "censor": "tb",
-        "answer_list": [
-            "LAGI NAIK DAUN",
-            "MAS ANIES, MAS ANIES",
-            "Dah Lah.....",
-            "PERASAN GUA GK ENAK NIH"
-        ]
-    },
-    {
-        "answer": "nyerah gue bro",
-        "file": "nyerah gue bro.png",
-        "censor": "b",
-        "answer_list": [
-            "EA",
-            "nyerah gue bro",
-            "AMPUN JAGOAN",
-            "JADI ELU"
-        ]
-    },
-    {
-        "answer": "GW TANDAIN MUKA LO!",
-        "file": "GW TANDAIN MUKA LO!.png",
-        "censor": "tb",
-        "answer_list": [
-            "MENDING TIDUR",
-            "GW TANDAIN MUKA LO!",
-            "KENAPA?? GAK SENENG!!",
-            "maaf gak minaj"
-        ]
-    },
-    {
-        "answer": "AKU NGEPUNK",
-        "file": "AKU NGEPUNK.png",
-        "censor": "b",
-        "answer_list": [
-            "PUNTEN",
-            "AKU NGEPUNK",
-            "kalo gw malu tuh",
-            "wibu goblok"
-        ]
-    },
-    {
-        "answer": "KOK BISA BANG",
-        "file": "KOK BISA BANG.png",
-        "censor": "b",
-        "answer_list": [
-            "dongo",
-            "KOK BISA BANG",
-            "APASIH",
-            "Ga Peduli"
-        ]
-    },
-    {
-        "answer": "Nelen Fakta",
-        "file": "Nelen Fakta.png",
-        "censor": "tb",
-        "answer_list": [
-            "LU ITU GA DI AJAK",
-            "Nelen Fakta",
-            "maaf gak minaj",
-            "LOGIN"
-        ]
-    },
-    {
-        "answer": "LU SOK ASIK BANGSAT",
-        "file": "LU SOK ASIK BANGSAT.png",
-        "censor": "tb",
-        "answer_list": [
-            "KENAPA?? GAK SENENG!!",
-            "LU SOK ASIK BANGSAT",
-            "Ingat Anak-anak Tetaplah berada di jalan setan",
-            "Ya Allah, seperti biasa Aamiin"
-        ]
-    },
-    {
-        "answer": "EA",
-        "file": "EA.png",
-        "censor": "b",
-        "answer_list": [
-            "AFFH IYH",
-            "EA",
-            "CEWEK SAYA",
-            "Ga Peduli"
-        ]
-    },
-    {
-        "answer": "TUA BANGKA MANA NGERTI TEKNOLOGI",
-        "file": "TUA BANGKA MANA NGERTI TEKNOLOGI.png",
-        "censor": "b",
-        "answer_list": [
-            "APA COBA",
-            "LU ITU GA DI AJAK",
-            "TUA BANGKA MANA NGERTI TEKNOLOGI",
-            "CEWEK SAYA"
-        ]
-    },
-    {
-        "answer": "B AJA",
-        "file": "B AJA.png",
-        "censor": "b",
-        "answer_list": [
-            "LU SOK ASIK BANGSAT",
-            "Turu",
-            "UTIWI",
-            "B AJA"
-        ]
-    },
-    {
-        "answer": "PENASARAN",
-        "file": "PENASARAN.png",
-        "censor": "b",
-        "answer_list": [
-            "AKU NGEPUNK",
-            "ADA-ADA SAJA",
-            "tolol sok keras pula",
-            "PENASARAN"
-        ]
-    },
-    {
-        "answer": "Ya Allah, seperti biasa Aamiin",
-        "file": "Ya Allah, seperti biasa Aamiin.png",
-        "censor": "tb",
-        "answer_list": [
-            "AKU ESEMKA",
-            "MAAP BANG BERCANDA",
-            "MALAM PENGANGGURAN",
-            "Ya Allah, seperti biasa Aamiin"
-        ]
-    },
-    {
-        "answer": "singkat, padat, bangsat",
-        "file": "singkat, padat, bangsat.png",
-        "censor": "b",
-        "answer_list": [
-            "singkat, padat, bangsat",
-            "Terus terang",
-            "KOK BISA BANG",
-            "duh enak banget bangke"
-        ]
-    },
-    {
-        "answer": "PEMBOHONK PUBLIK",
-        "file": "PEMBOHONK PUBLIK.png",
-        "censor": "tb",
-        "answer_list": [
-            "MANCING PERKORO",
-            "Awkoakwoakwoak",
-            "KECEWA BERAT",
-            "PEMBOHONK PUBLIK"
-        ]
-    },
-    {
-        "answer": "OWALAH ASU",
-        "file": "OWALAH ASU.png",
-        "censor": "b",
-        "answer_list": [
-            "Iri bilang bos",
-            "OWALAH ASU",
-            "TABAH",
-            "B AJA"
-        ]
-    },
-    {
-        "answer": "BAKWAN JAGUNG",
-        "file": "BAKWAN JAGUNG.png",
-        "censor": "b",
-        "answer_list": [
-            "BAKWAN JAGUNG",
-            "EXTRA JOSS",
-            "Mampus kntl Yang sabar ya bro",
-            "Ga Peduli"
-        ]
-    },
-    {
-        "answer": "NTAR DULU GUA PIKIR PIKIR DULU",
-        "file": "NTAR DULU GUA PIKIR PIKIR DULU.png",
-        "censor": "tb",
-        "answer_list": [
-            "AFFH IYH",
-            "kaya ada yang ngomongin gw",
-            "NTAR DULU GUA PIKIR PIKIR DULU",
-            "AH YG BENER"
-        ]
-    },
-    {
-        "answer": "JAGUNG BAKAR",
-        "file": "JAGUNG BAKAR.png",
-        "censor": "b",
-        "answer_list": [
-            "JAGUNG BAKAR",
-            "CANDA BANG NIH 500",
-            "lu mau gw pukul?",
-            "CERDAS"
-        ]
-    },
-    {
-        "answer": "APASIH",
-        "file": "APASIH.png",
-        "censor": "b",
-        "answer_list": [
-            "LAGI NAIK DAUN",
-            "PAGI LORD",
-            "aph iyh?",
-            "APASIH"
-        ]
-    },
-    {
-        "answer": "Tumben dari barat",
-        "file": "Tumben dari barat.png",
-        "censor": "b",
-        "answer_list": [
-            "Tumben dari barat",
-            "KAU LAGI",
-            "si paling si paling daripada lu si pasi pasiri sipasipasi",
-            "NTAR DULU GUA PIKIR PIKIR DULU"
-        ]
-    },
-    {
-        "answer": "Enaknya duit bansos",
-        "file": "Enaknya duit bansos.png",
-        "censor": "b",
-        "answer_list": [
-            "Nelen Fakta",
-            "Terus terang",
-            "Pinjem dulu seratus",
-            "Enaknya duit bansos"
-        ]
-    },
-    {
-        "answer": "NGUAWOR",
-        "file": "NGUAWOR.png",
-        "censor": "t",
-        "answer_list": [
-            "AKU NGEPUNK",
-            "Dah Lah.....",
-            "NGUAWOR",
-            "Nelen Fakta"
-        ]
-    },
-    {
-        "answer": "oh iya kah?",
-        "file": "oh iya kah?.png",
-        "censor": "b",
-        "answer_list": [
-            "oh iya kah?",
-            "gada otak",
-            "EXTRA JOSS",
-            "AKU KERJA"
-        ]
-    },
-    {
-        "answer": "MANCING PERKORO",
-        "file": "MANCING PERKORO.png",
-        "censor": "b",
-        "answer_list": [
-            "AKU ESEMA",
-            "AKU NGANGGUR",
-            "MANCING PERKORO",
-            "WADUH"
-        ]
-    },
-    {
-        "answer": "serlok tak parani",
-        "file": "serlok tak parani.png",
-        "censor": "tb",
-        "answer_list": [
-            "AKU KERJA",
-            "serlok tak parani",
-            "ingfokan",
-            "JAGUNG BAKAR"
-        ]
-    },
-    {
-        "answer": "HARI INI MASAK APA CHEF?",
-        "file": "HARI INI MASAK APA CHEF?.png",
-        "censor": "tb",
-        "answer_list": [
-            "BUNUH ADMIN",
-            "Ngeri-ngeri",
-            "HARI INI MASAK APA CHEF?",
-            "Sucipto"
-        ]
-    },
-    {
-        "answer": "Ga Peduli",
-        "file": "Ga Peduli.png",
-        "censor": "b",
-        "answer_list": [
-            "Sucipto",
-            "Ga Peduli",
-            "AKU ESEMKA",
-            "EA"
-        ]
-    },
-    {
-        "answer": "PANJENENGAN DANCOK",
-        "file": "PANJENENGAN DANCOK.png",
-        "censor": "tb",
-        "answer_list": [
-            "KELAS KING",
-            "Ga Peduli",
-            "PANJENENGAN DANCOK",
-            "BAKWAN JAGUNG"
-        ]
-    },
-    {
-        "answer": "sopan santun telah hilang",
-        "file": "sopan santun telah hilang.png",
-        "censor": "tb",
-        "answer_list": [
-            "AKU JUGA MW",
-            "HARI INI MASAK APA CHEF?",
-            "sopan santun telah hilang",
-            "AKU ESEMPE"
-        ]
-    },
-    {
-        "answer": "Iri bilang bos",
-        "file": "Iri bilang bos.png",
-        "censor": "b",
-        "answer_list": [
-            "Iri bilang bos",
-            "kalo gw malu tuh",
-            "Ingat kita ga gud luking",
-            "Enaknya duit bansos"
-        ]
-    },
-    {
-        "answer": "bang, kalian stres nya cuma bercanda kan",
-        "file": "bang, kalian stres nya cuma bercanda kan.png",
-        "censor": "tb",
-        "answer_list": [
-            "ingfokan",
-            "LU SOK ASIK BANGSAT",
-            "MENDING TIDUR",
-            "bang, kalian stres nya cuma bercanda kan"
-        ]
-    },
-    {
-        "answer": "si paling si paling daripada lu si pasi pasiri sipasipasi",
-        "file": "si paling si paling daripada lu si pasi pasiri sipasipasi.png",
-        "censor": "tb",
-        "answer_list": [
-            "DILUAR NALAR COY",
-            "APA TUHH KOK DIHAPUSS??",
-            "si paling si paling daripada lu si pasi pasiri sipasipasi",
-            "serlok tak parani"
-        ]
-    },
-    {
-        "answer": "ini saatnya...",
-        "file": "ini saatnya....png",
-        "censor": "b",
-        "answer_list": [
-            "aph iyh?",
-            "Nelen Fakta",
-            "PEPEK",
-            "ini saatnya..."
-        ]
-    },
-    {
-        "answer": "ADA-ADA SAJA",
-        "file": "ADA-ADA SAJA.png",
-        "censor": "b",
-        "answer_list": [
-            "DILUAR NALAR COY",
-            "ONDE MANDE",
-            "ADA-ADA SAJA",
-            "diam bukan berarti limbad"
-        ]
-    },
-    {
-        "answer": "NGOTAK GOBLOK",
-        "file": "NGOTAK GOBLOK.png",
-        "censor": "t",
-        "answer_list": [
-            "SLEBEWW",
-            "NGOTAK GOBLOK",
-            "CANDA BANG NIH 500",
-            "ga waras"
-        ]
-    },
-    {
-        "answer": "TABAH",
-        "file": "TABAH.png",
-        "censor": "b",
-        "answer_list": [
-            "AWAS KAMU YAH",
-            "TABAH",
-            "APABILA",
-            "Ingat Anak-anak Tetaplah berada di jalan setan"
-        ]
-    },
-    {
-        "answer": "GW UDAH MUAK",
-        "file": "GW UDAH MUAK.png",
-        "censor": "b",
-        "answer_list": [
-            "nyerah gue bro",
-            "mikir dong Lo kan dah gede !",
-            "GW UDAH MUAK",
-            "maaf gak minaj"
-        ]
-    },
-    {
-        "answer": "BOONK COBA ESES",
-        "file": "BOONK COBA ESES.png",
-        "censor": "tb",
-        "answer_list": [
-            "PAKE NANYA",
-            "berpikir sejenak",
-            "BOONK COBA ESES",
-            "SIP SYA CATAT"
-        ]
-    },
-    {
-        "answer": "BACOT",
-        "file": "BACOT.png",
-        "censor": "b",
-        "answer_list": [
-            "BAKWAN JAGUNG",
-            "BACOT",
-            "GW TANDAIN MUKA LO!",
-            "MANCING PERKORO"
-        ]
-    },
-    {
-        "answer": "AMPUN JAGOAN",
-        "file": "AMPUN JAGOAN.png",
-        "censor": "b",
-        "answer_list": [
-            "Ngeri-ngeri",
-            "AMPUN JAGOAN",
-            "GW TANDAIN MUKA LO!",
-            "KEBAL ROASTING"
-        ]
-    },
-    {
-        "answer": "PAKE NANYA",
-        "file": "PAKE NANYA.png",
-        "censor": "b",
-        "answer_list": [
-            "Sebaiknya jangan terlalu gegabah",
-            "PAKE NANYA",
-            "gada otak",
-            "SUDAHLAH WIBU"
+            "PEPEK"
         ]
     },
     {
         "answer": "AKU ESEMKA",
-        "file": "AKU ESEMKA.png",
+        "file": "AKU ESEMKA.webp",
         "censor": "b",
         "answer_list": [
-            "PERASAN GUA GK ENAK NIH",
-            "GACOR KANG",
-            "AKU ESEMKA",
-            "AKU NGANGGUR"
+            "LU ITU GA DI AJAK",
+            "MIKIR TUH PAKE OTAK",
+            "ADA-ADA SAJA",
+            "AKU ESEMKA"
         ]
     },
     {
-        "answer": "Mampus kntl Yang sabar ya bro",
-        "file": "Mampus kntl Yang sabar ya bro.png",
-        "censor": "b",
-        "answer_list": [
-            "SLEBEWW",
-            "Mampus kntl Yang sabar ya bro",
-            "mikir dong Lo kan dah gede !",
-            "SIP SYA CATAT"
-        ]
-    },
-    {
-        "answer": "EXTRA JOSS",
-        "file": "EXTRA JOSS.png",
+        "answer": "aph iyh?",
+        "file": "aph iyh?.webp",
         "censor": "t",
         "answer_list": [
-            "EXTRA JOSS",
-            "SIAPA SANGKA",
-            "Bagaimana cara kita memberitahukannya?",
-            "Ngeri-ngeri"
+            "aph iyh?",
+            "GEGE LU BANG",
+            "3JT pun kubayar",
+            "BAKWAN JAGUNG"
         ]
     },
     {
-        "answer": "AH YG BENER",
-        "file": "AH YG BENER.png",
+        "answer": "MAS ANIES, MAS ANIES",
+        "file": "MAS ANIES, MAS ANIES.webp",
         "censor": "b",
         "answer_list": [
-            "AH YG BENER",
-            "gada otak",
-            "GW UDAH MUAK",
-            "SUDAHLAH WIBU"
+            "Ngeri-ngeri",
+            "MANCING PERKORO",
+            "ingfokan",
+            "MAS ANIES, MAS ANIES"
         ]
     },
     {
-        "answer": "KEBAL ROASTING",
-        "file": "KEBAL ROASTING.png",
+        "answer": "KOK BISA BANG",
+        "file": "KOK BISA BANG.webp",
         "censor": "b",
         "answer_list": [
-            "LAGI NAIK DAUN",
-            "Ingat kita ga gud luking",
-            "KEBAL ROASTING",
-            "mikir dong Lo kan dah gede !"
+            "nyerah gue bro",
+            "brisik ajg",
+            "KOK BISA BANG",
+            "MALES SUMPAH"
         ]
     },
     {
-        "answer": "Awkoakwoakwoak",
-        "file": "Awkoakwoakwoak.png",
-        "censor": "b",
-        "answer_list": [
-            "LU ASIK BANG",
-            "Awkoakwoakwoak",
-            "NGGAK",
-            "PENASARAN"
-        ]
-    },
-    {
-        "answer": "ah ajg lu",
-        "file": "ah ajg lu.png",
-        "censor": "b",
-        "answer_list": [
-            "ah ajg lu",
-            "SUDAH WAKTUNYA LOGIN",
-            "BACOT",
-            "tai kucing tai kuda cuma kamu yang bikin aku jatuh cinta"
-        ]
-    },
-    {
-        "answer": "LU ITU GA DI AJAK",
-        "file": "LU ITU GA DI AJAK.png",
-        "censor": "bm",
-        "answer_list": [
-            "MAS ANIES, MAS ANIES",
-            "AKU JUGA MW",
-            "LU ITU GA DI AJAK",
-            "maaf lagi mode tobat"
-        ]
-    },
-    {
-        "answer": "AFFH IYH",
-        "file": "AFFH IYH.png",
+        "answer": "Terus terang",
+        "file": "Terus terang.webp",
         "censor": "b",
         "answer_list": [
             "Terus terang",
-            "angkat tangan saya menyerah",
-            "AFFH IYH",
-            "SLEBEWW"
-        ]
-    },
-    {
-        "answer": "mikir dong Lo kan dah gede !",
-        "file": "mikir dong Lo kan dah gede !.png",
-        "censor": "b",
-        "answer_list": [
-            "mikir dong Lo kan dah gede !",
-            "kaya ada yang ngomongin gw",
-            "CEWEK SAYA",
-            "MAIN GAME BUAT HILANGIN STRES EH MALAH LOSE STREAK"
-        ]
-    },
-    {
-        "answer": "JADI ELU",
-        "file": "JADI ELU.png",
-        "censor": "b",
-        "answer_list": [
-            "JADI ELU",
-            "Dah Lah.....",
-            "AWAS KAMU YAH",
-            "Woy Sound horeg Rumahku rusak nih"
-        ]
-    },
-    {
-        "answer": "berpikir sejenak",
-        "file": "berpikir sejenak.png",
-        "censor": "tb",
-        "answer_list": [
-            "Ngeri-ngeri",
-            "berpikir sejenak",
-            "Ya Allah, seperti biasa Aamiin",
-            "ah ajg lu"
-        ]
-    },
-    {
-        "answer": "LOGIN",
-        "file": "LOGIN.png",
-        "censor": "b",
-        "answer_list": [
-            "LAGI NAIK DAUN",
-            "LU DOANG",
-            "lu mau gw pukul?",
-            "LOGIN"
-        ]
-    },
-    {
-        "answer": "kaya ada yang ngomongin gw",
-        "file": "kaya ada yang ngomongin gw.png",
-        "censor": "tb",
-        "answer_list": [
-            "KECEWA BERAT",
-            "ingfokan",
-            "JADI ELU",
+            "wibu goblok",
+            "serlok tak parani",
             "kaya ada yang ngomongin gw"
         ]
     },
     {
-        "answer": "AKU ESDE",
-        "file": "AKU ESDE.png",
-        "censor": "b",
-        "answer_list": [
-            "AKU ESDE",
-            "LU ITU GA DI AJAK",
-            "DIKEROYOK SIRKEL",
-            "PANJENENGAN DANCOK"
-        ]
-    },
-    {
-        "answer": "MALAM PENGANGGURAN",
-        "file": "MALAM PENGANGGURAN.png",
+        "answer": "tolol sok keras pula",
+        "file": "tolol sok keras pula.webp",
         "censor": "tb",
         "answer_list": [
-            "KENAPA?? GAK SENENG!!",
-            "MIKIR TUH PAKE OTAK",
-            "MALAM PENGANGGURAN",
-            "Ywdh boleh"
+            "Bagaimana cara kita memberitahukannya?",
+            "tolol sok keras pula",
+            "NTAR DULU GUA PIKIR PIKIR DULU",
+            "kalo gw malu tuh"
         ]
     },
     {
-        "answer": "Dasar Anak Bangsad",
-        "file": "Dasar Anak Bangsad.png",
-        "censor": "b",
+        "answer": "Nelen Fakta",
+        "file": "Nelen Fakta.webp",
+        "censor": "tb",
         "answer_list": [
-            "AKU ESEMPE",
-            "Dasar Anak Bangsad",
-            "APASIH",
-            "wibu goblok"
+            "Nelen Fakta",
+            "brisik ajg",
+            "JADI ELU",
+            "AWAS KAMU YAH"
         ]
     },
     {
-        "answer": "Turu",
-        "file": "Turu.png",
+        "answer": "LOGIN",
+        "file": "LOGIN.webp",
         "censor": "b",
-        "answer_list": [
-            "ingfokan",
-            "KELAS KING",
-            "Turu",
-            "TABAH"
-        ]
-    },
-    {
-        "answer": "KECEWA BERAT GW",
-        "file": "KECEWA BERAT GW.png",
-        "censor": "t",
         "answer_list": [
             "bang, kalian stres nya cuma bercanda kan",
-            "Tumben dari barat",
-            "KECEWA BERAT GW",
-            "SUDAH CUKUP"
+            "NGUAWOR",
+            "LOGIN",
+            "Iri bilang bos"
         ]
     },
     {
-        "answer": "tolol sok keras pula",
-        "file": "tolol sok keras pula.png",
-        "censor": "tb",
-        "answer_list": [
-            "nyerah gue bro",
-            "Iri bilang bos",
-            "tolol sok keras pula",
-            "AKU JUGA MW"
-        ]
-    },
-    {
-        "answer": "TERTAWA TAPI TERLUKA",
-        "file": "TERTAWA TAPI TERLUKA.png",
+        "answer": "Sudahlah koboi",
+        "file": "Sudahlah koboi.webp",
         "censor": "b",
         "answer_list": [
-            "ONDE MANDE",
-            "MAJU LO SINI AJG",
-            "TERTAWA TAPI TERLUKA",
-            "AKU KERJA"
+            "PAGI LORD",
+            "Sudahlah koboi",
+            "HAI SAYANG",
+            "AKU ESEMA"
+        ]
+    },
+    {
+        "answer": "DIA KENAPA?",
+        "file": "DIA KENAPA?.webp",
+        "censor": "b",
+        "answer_list": [
+            "DIA KENAPA?",
+            "Sudahlah Badut",
+            "ADA-ADA SAJA",
+            "AKU NGANGGUR"
+        ]
+    },
+    {
+        "answer": "kaya ada yang ngomongin gw",
+        "file": "kaya ada yang ngomongin gw.webp",
+        "censor": "tb",
+        "answer_list": [
+            "MENDING TIDUR",
+            "kaya ada yang ngomongin gw",
+            "SERIUS LU",
+            "UTIWI"
+        ]
+    },
+    {
+        "answer": "maaf lagi mode tobat",
+        "file": "maaf lagi mode tobat.webp",
+        "censor": "tb",
+        "answer_list": [
+            "maaf lagi mode tobat",
+            "Mw! Bnget Mw! Bnget",
+            "BAKWAN JAGUNG",
+            "assalamualaikum"
+        ]
+    },
+    {
+        "answer": "Enaknya duit bansos",
+        "file": "Enaknya duit bansos.webp",
+        "censor": "b",
+        "answer_list": [
+            "KSABAR",
+            "Enaknya duit bansos",
+            "Pinjem dulu seratus",
+            "DILUAR NALAR COY"
+        ]
+    },
+    {
+        "answer": "bruakakak",
+        "file": "bruakakak.webp",
+        "censor": "b",
+        "answer_list": [
+            "SLEBEWW",
+            "super gacor",
+            "assalamualaikum",
+            "bruakakak"
         ]
     },
     {
         "answer": "Apasih ngabs",
-        "file": "Apasih ngabs.png",
+        "file": "Apasih ngabs.webp",
         "censor": "b",
         "answer_list": [
-            "PAGI LORD",
-            "KACANGIN AJA BRO",
+            "NTAR DULU GUA PIKIR PIKIR DULU",
+            "ga waras",
             "Apasih ngabs",
-            "BACOT"
+            "LOGIN"
         ]
     },
     {
-        "answer": "CEWEK SAYA",
-        "file": "CEWEK SAYA.png",
+        "answer": "APABILA",
+        "file": "APABILA.webp",
         "censor": "b",
         "answer_list": [
-            "TERTAWA TAPI TERLUKA",
-            "PAKE NANYA",
-            "ah ajg lu",
-            "CEWEK SAYA"
+            "WADUH",
+            "Pinjem dulu seratus",
+            "AKU NGEPUNK",
+            "APABILA"
         ]
     },
     {
-        "answer": "AKU KULIAH",
-        "file": "AKU KULIAH.png",
+        "answer": "Iri bilang bos",
+        "file": "Iri bilang bos.webp",
         "censor": "b",
         "answer_list": [
             "AKU KULIAH",
-            "nyerah gue bro",
-            "LO ITU GA DI AJAK GA USAH SOK ASIK",
-            "PURA PURA LEMAH PADAHAL SEBENARNYA RAJA IBLIS"
+            "MAAP BANG BERCANDA",
+            "Iri bilang bos",
+            "SUDAH CUKUP"
         ]
     },
     {
-        "answer": "Woy Sound horeg Rumahku rusak nih",
-        "file": "Woy Sound horeg Rumahku rusak nih.png",
-        "censor": "m",
+        "answer": "Ingat kita ga gud luking",
+        "file": "Ingat kita ga gud luking.webp",
+        "censor": "b",
         "answer_list": [
-            "ONDE MANDE",
-            "JAGUNG BAKAR",
-            "Woy Sound horeg Rumahku rusak nih",
-            "PAK YU"
+            "MAIN GAME BUAT HILANGIN STRES EH MALAH LOSE STREAK",
+            "PEMBOHONK PUBLIK",
+            "Ingat kita ga gud luking",
+            "AWAS KAMU YAH"
+        ]
+    },
+    {
+        "answer": "SIAPA SANGKA",
+        "file": "SIAPA SANGKA.webp",
+        "censor": "b",
+        "answer_list": [
+            "MIKIR TUH PAKE OTAK",
+            "SIAPA SANGKA",
+            "Enaknya duit bansos",
+            "mikir dong Lo kan dah gede !"
+        ]
+    },
+    {
+        "answer": "mikir dong Lo kan dah gede !",
+        "file": "mikir dong Lo kan dah gede !.webp",
+        "censor": "b",
+        "answer_list": [
+            "BENTAR GATEL",
+            "kaya ada yang ngomongin gw",
+            "mikir dong Lo kan dah gede !",
+            "AKU NGEPUNK"
         ]
     }
 ]
