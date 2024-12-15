@@ -15,7 +15,7 @@ qna_list = []
 
 # Loop through the files
 for file in files:
-    if file.endswith(('.jpg', '.png')):  # Check if the file is an image
+    if file.endswith(('.jpg', '.png','.webp')):  # Check if the file is an image
         # Split the filename to get the prefix (censor) and the rest (answer + extension)
         prefix, rest = file.split('-', 1)
         answer = os.path.splitext(rest)[0]  # Remove the file extension to get the answer
